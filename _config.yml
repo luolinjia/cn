@@ -1,5 +1,9 @@
 ﻿markdown: rdiscount
+
 permalink: /:year/:month/:title/
+
 url: http://ideex.name/cn
-author: 骆林佳pygments: true
+
+author: 骆林佳
+pygments: true
 
