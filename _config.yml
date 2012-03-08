@@ -1,6 +1,5 @@
-markdown: rdiscount
+﻿markdown: rdiscount
 permalink: /:year/:month/:title/
-url: http://yihui.name/cn
-author: 谢益辉
-pygments: true
+url: http://ideex.name/cn
+author: 骆林佳pygments: true
 
