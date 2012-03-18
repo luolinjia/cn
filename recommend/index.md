@@ -6,7 +6,7 @@ comments: yes
 
 # 工具
 
- - 浏览器:[Chrome](http://www.google.cn/Chrome)浏览器(传说的google浏览器)
+ - 浏览器:[Chrome](http://www.google.cn/chrome/intl/zh-CN/landing_chrome.html?hl=zh-CN)浏览器(传说的google浏览器)
 
 选择理由:由于本人一直以来都是用IE浏览器,尤其在IE8出来后,加深了使用IE8的习惯,觉得该款浏览器一直都做得很好,但是这种观点在参加工作后就渐渐被实际的运用所代替,由于我一直都对美没有抵抗力,当我看到[impress](http://bartaz.github.com/impress.js/#/bored)(注意IE下没有效果,只有支持HTML5和CSS3才可以正常观看)的惊人效果后,以及本身Chrome浏览器的不俗速度后果断放弃了IE8,IE一层不变的模式让我心寒,不丰富的应用插件让我觉得IE就是一潭死水,没有任何地改观.除了它是捆绑在Win7下的默认浏览器,不然现在还真不用它.
 
