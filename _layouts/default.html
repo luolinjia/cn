@@ -9,6 +9,11 @@
     <link rel="stylesheet" href="/media/css/style.css">
     <link rel="stylesheet" href="/media/css/highlight.css">
     <script type="text/javascript" src="/media/js/jquery-1.7.1.min.js"></script>
+    <script type="text/javascript">
+    	function goback(){
+    			window.location = 'http://ideex.name';	
+    	}	
+    </script>
   </head>
   <body>
     <div id="container">
@@ -27,6 +32,7 @@
         {{ content }}
         </article>
       </div>
+      <div class="fdiv" onclick="goback();">----->回首页</div>
     </div>
     <script type="text/javascript">
   		var _gaq = _gaq || [];
