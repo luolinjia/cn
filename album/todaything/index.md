@@ -1,11 +1,11 @@
 ---
 layout: album
-title: 世纪公园
+title: 今昔
 categories:
-- Tour
+- Emotion
 tags:
-- 世纪公园
-- 梅花
+- 程序
+- 爱情
 ---
 
 ![删除记忆](http://www.kxqq.net/images/qqimg.asp?url=http://b52.photo.store.qq.com/psu?/d969de4b-b6e5-4504-9731-7d71871c0096/UA3bEGFe9idQXziyGqSICypCqL2Jz7uy6wJRM5V7sS4!/b/YSdXNh19EQAAYqMBFx8LEQAA&a=49&b=52)
