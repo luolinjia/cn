@@ -28,3 +28,5 @@ tags:
 > 我：好的，谢了师傅
 
 独具感觉的上海公交，让我有可能下次再来。
+
+![](http://b152.photo.store.qq.com/psb?/V13JA5z40d9Mx5/dPIOW.93EgV848h993BF8Z*ZU5Hk5lq7TW8SUQRxepk!/b/Yawnp1rHfwAAYmMKoVpWhwAA)
