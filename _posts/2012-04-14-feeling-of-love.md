@@ -10,7 +10,7 @@ tags:
 
 一个朋友说，一些人很看重某些事情，可是自己不能给。好好锻炼身体吧，好好地为自己的下半生谋福。真的马虎不得。自己始终是一个孤独的奋斗者。
 
-![孤独地奋斗](http://b154.photo.store.qq.com/psb?/f9b269e2-eada-45ba-b1e0-0c21b891f567/DC8n4mIB6c4rZbzWfXFv46V7aO0hp6BoUDh0ytn1els!/b/YcTM1ludHAAAYmQ81VuXFgAAb2Q81VuXFgAA)
+![孤独地奋斗](http://i.imgur.com/VncAm.jpg)
 
 > =========================================          
 > __于4.14深夜随笔__     
