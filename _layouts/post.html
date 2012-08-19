@@ -1,6 +1,31 @@
 ---
-layout: default
+layout: defaultpost
 ---
+
+<div id="posttime"><span class="time">
+  Written in
+  <time datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date:"%Y-%m-%d" }}</time>
+</span></div>
+<div>
+{% if page.categories %}
+<span class="categories">
+  Categories:
+  {% for cat in page.categories %}
+  <a href="{{ site.url }}/categories/#{{ cat }}" title="{{ cat }}">{{ cat }}</a>&nbsp;
+  {% endfor %}
+</span>
+{% endif %}
+{% if page.tags %}
+<span class="tags">
+  Tags:
+  {% for tag in page.tags %}
+  <a href="{{ site.url }}/tags/#{{ tag }}" title="{{ tag }}">{{ tag }}</a>&nbsp;
+  {% endfor %}
+</span>
+{% endif %}
+</div>
+<hr>
+<br/>
 
 <section class="post">
 {{ content }}
@@ -12,7 +37,7 @@ layout: default
         <a class="bds_tsina"></a>
         <a class="bds_tqq"></a>
         <a class="bds_renren"></a>
-        <span class="bds_more">¸ü¶à</span>
+        <span class="bds_more">baidu</span>
 		<a class="shareCount"></a>
     </div>
 <script type="text/javascript" id="bdshare_js" data="type=tools" ></script>
@@ -23,35 +48,26 @@ layout: default
 <!-- Baidu Button END -->
 </section>
 <section class="meta">
-	
+<div align="right">
 <span class="author">
   <a href="http://ideex.name">{{ site.author }}</a>
 </span>
-<span class="time">
-  /
-  <time datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date:"%Y-%m-%d" }}</time>
-</span>
-<br />
+</div>
+<div align="right">
 <span class="license">
   Published under <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">(CC) BY-NC-SA</a>
 </span>
-{% if page.categories %}
-<span class="categories">
-  in categories
-  {% for cat in page.categories %}
-  <a href="{{ site.url }}/categories/#{{ cat }}" title="{{ cat }}">{{ cat }}</a>&nbsp;
-  {% endfor %}
-</span>
-{% endif %}
-{% if page.tags %}
-<span class="tags">
-  tagged with 
-  {% for tag in page.tags %}
-  <a href="{{ site.url }}/tags/#{{ tag }}" title="{{ tag }}">{{ tag }}</a>&nbsp;
-  {% endfor %}
-</span>
-{% endif %}
+</div>
 </section>
+<div><span>Previous</span><span style="float:right;">Next</span></div>
+<div class="navigation">
+	    {% if page.next %}
+	      <a class="next" href="{{ page.next.url }}">&laquo;&nbsp;{{ page.next.title | truncatewords:5 }}</a>
+	    {% endif %}
+	    {% if page.previous %}
+	    	<a class="prev" href="{{ page.previous.url }}" style="float:right">{{ page.previous.title | truncatewords:5 }}&nbsp;&raquo;</a>
+	    {% endif %}
+</div>
 {% include comments.md %}
 <script type="text/javascript">
 $(function(){

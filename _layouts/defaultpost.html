@@ -10,19 +10,19 @@
     <script type="text/javascript" src="/medias/js/jquery-1.7.1.min.js"></script>
     <style>
     	#menu ul li a.home{
-		  background-image: url(../medias/img/index/menu.png);
+		  background-image: url(../../../medias/img/index/menu.png);
 		  background-position: 142px 0;
 		}
 		#menu ul li a.post{
-		  background-image: url(../medias/img/index/menu.png);
+		  background-image: url(../../../medias/img/index/menu.png);
 		  background-position: 71px -71px;
 		}
 		#menu ul li a.about{
-		  background-image: url(../medias/img/index/menu.png);
+		  background-image: url(../../../medias/img/index/menu.png);
 		  background-position: 142px -142px;
 		}
 		#menu ul li a.comment{
-		  background-image: url(../medias/img/index/menu.png);
+		  background-image: url(../../../medias/img/index/menu.png);
 		  background-position: 142px -213px;
 		}
     </style>
@@ -45,7 +45,7 @@
         <!-- header end -->
         <!-- sidebar start -->
         <div id="sidebar">
-            <div class="introduce" id="gogo"><img src="../medias/img/index/post.png" /></div>
+            <div class="introduce" id="gogo"><img src="../../../medias/img/index/post.png" /></div>
             <div class="summary">Contains the record of<br/>  <span>life</span>, <span>study</span> & <span>work</span>.</div>
             <div id="functions">
                 <ul>
@@ -66,7 +66,9 @@
 
         <!-- content start -->
         <div class="centercontent">
-            
+            <div class="title">
+                {{ page.title }}
+            </div>
             <hr>
       		<div class="pad">
       		<article class="content">

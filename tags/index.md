@@ -1,5 +1,5 @@
 ---
-title: 标签
+title: tags
 layout: page
 ---
 
@@ -15,21 +15,31 @@ layout: page
 {% for post in tag[1] %}
   <li class="listing-item">
   <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
-  <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+  <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}" class="listing-item-a">{{ post.title }}</a>
   </li>
 {% endfor %}
 {% endfor %}
 </ul>
 
-<script src="/media/js/jquery-1.7.1.min.js" type="text/javascript" charset="utf-8"></script> 
-<script src="/media/js/jquery.tagcloud.js" type="text/javascript" charset="utf-8"></script> 
+<script src="/medias/js/jquery-1.7.1.min.js" type="text/javascript" charset="utf-8"></script> 
+<script src="/medias/js/jquery.tagcloud.js" type="text/javascript" charset="utf-8"></script> 
 <script language="javascript">
 $.fn.tagcloud.defaults = {
     size: {start: 1, end: 1, unit: 'em'},
-      color: {start: '#f8e0e6', end: '#ff3333'}
+      color: {start: '#c0edf7', end: '#c0edf7'}
 };
 
 $(function () {
     $('#tag_cloud a').tagcloud();
+	$('#tag_cloud a').mouseover(
+		function(){
+			$(this).css('color','#05a1c5');
+		}
+	);
+	$('#tag_cloud a').mouseout(
+		function(){
+			$(this).css('color','#c0edf7');
+		}
+	);
 });
 </script>
