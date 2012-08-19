@@ -2,8 +2,8 @@
 layout: post
 title: 解决google+无法登录(转)
 categories:
-- technology
-- data
+- Technology
+- Data
 tags:
 - google
 - chrome
