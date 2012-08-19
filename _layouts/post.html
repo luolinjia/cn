@@ -62,10 +62,10 @@ layout: defaultpost
 <div><span>Previous</span><span style="float:right;">Next</span></div>
 <div class="navigation">
 	    {% if page.next %}
-	      <a class="next" href="{{ page.next.url }}">&laquo;&nbsp;{{ page.next.title | truncatewords:5 }}</a>
+	      <a class="next" href="{{ site.url }}{{ page.next.url }}">&laquo;&nbsp;{{ page.next.title | truncatewords:5 }}</a>
 	    {% endif %}
 	    {% if page.previous %}
-	    	<a class="prev" href="{{ page.previous.url }}" style="float:right">{{ page.previous.title | truncatewords:5 }}&nbsp;&raquo;</a>
+	    	<a class="prev" href="{{ site.url }}{{ page.previous.url }}" style="float:right">{{ page.previous.title | truncatewords:5 }}&nbsp;&raquo;</a>
 	    {% endif %}
 </div>
 {% include comments.md %}

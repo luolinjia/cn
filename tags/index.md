@@ -29,17 +29,5 @@ $.fn.tagcloud.defaults = {
       color: {start: '#c0edf7', end: '#c0edf7'}
 };
 
-$(function () {
-    $('#tag_cloud a').tagcloud();
-	$('#tag_cloud a').mouseover(
-		function(){
-			$(this).css('color','#05a1c5');
-		}
-	);
-	$('#tag_cloud a').mouseout(
-		function(){
-			$(this).css('color','#c0edf7');
-		}
-	);
-});
+
 </script>

@@ -8,3 +8,18 @@ layout: default
 {% if page.comments %}
 {% include comments.md %}
 {% endif %}
+<script type="text/javascipt">
+	$(function () {
+	    $('#tag_cloud a').tagcloud();
+		$('#tag_cloud a').mouseover(
+			function(){
+				$(this).css('color','#05a1c5');
+			}
+		);
+		$('#tag_cloud a').mouseout(
+			function(){
+				$(this).css('color','#c0edf7');
+			}
+		);
+	});	
+</script>
