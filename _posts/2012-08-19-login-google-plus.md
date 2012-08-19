@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [转]解决google+无法登录
+title: 解决google+无法登录
 categories:
 - technology
 - data
