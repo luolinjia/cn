@@ -21,7 +21,7 @@ tags:
 检查是否暗安装成功，就用流行的Hello World来进行测试。  
 当环境变量配置好以后，启动cmd，键入Python即可进入编写页面，然后输入:  
 
-{% highlight Python %}
+{% highlight python %}
 print('Hello world')
 {% endhighlight %}  
 
