@@ -92,7 +92,9 @@ markdown: rdiscount
 #### 参考  
 - <http://www.yangzhiping.com/tech/wordpress-to-jekyll.html>  
 - <http://chxt6896.github.com/blog/2012/01/02/blog-textile.html>  
-- <https://github.com/mojombo/jekyll/wiki/install>
+- <https://github.com/mojombo/jekyll/wiki/install>  
+
+
 
 > =========================================          
 > __于8.21下午__     
