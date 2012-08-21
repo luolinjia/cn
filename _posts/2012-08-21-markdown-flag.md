@@ -34,7 +34,7 @@ gem install rdiscount
 jekyll --rdiscount
 {% endhighlight %}  
 
-或者，你可以在**_config.yml** 文件中加入以下语句：
+或者，你可以在**\_config.yml** 文件中加入以下语句：
 
 {% highlight ruby %}
 markdown: rdiscount
@@ -94,7 +94,4 @@ markdown: rdiscount
 - <http://chxt6896.github.com/blog/2012/01/02/blog-textile.html>  
 - [https://github.com/mojombo/jekyll/wiki/install](https://github.com/mojombo/jekyll/wiki/install)  
 
-
-
-> =========================================          
-> __于8.21下午__     
+   
