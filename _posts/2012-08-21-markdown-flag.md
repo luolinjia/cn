@@ -18,9 +18,9 @@ tags:
 # 如何解析**Markdown**文件(jekyll下)  
 一个Markdown文件，既然要被解析，就一定得对应有解析器(注意在此之前，将文件保存为\.md/\.mkd/\.mkdn/\.mark后缀格式)，一般在**jekyll博客系统**中，已经有一个默认的Markdown解析器Maruku(纯ruby写的markdown模版解释器)，不过由于效率比RDiscount(用C写的模版解释器)低很多，RDiscount解析器已经成为很多博客的选择，以下是其效率:
 
-> BlueCloth: 13.029987s total time, 00.130300s average
-   Maruku: 08.424132s total time, 00.084241s average
-RDiscount: 00.082019s total time, 00.000820s average  
+> BlueCloth: 13.029987s total time, 00.130300s average  
+>   Maruku: 08.424132s total time, 00.084241s average  
+> RDiscount: 00.082019s total time, 00.000820s average    
 
 然后使用RubyGems进行安装：
 
@@ -34,7 +34,7 @@ gem install rdiscount
 jekyll --rdiscount
 {% endhighlight %}  
 
-或者，你可以在**_config.yml**文件中加入以下语句：
+或者，你可以在**_config.yml** 文件中加入以下语句：
 
 {% highlight ruby %}
 markdown: rdiscount
@@ -49,8 +49,8 @@ markdown: rdiscount
 
 > ### 1-6级标题：  
 >> \# 一级标题  
-\## 二级标题  
-\###### 六级标题  
+>> \## 二级标题  
+>> \###### 六级标题  
 
 > ### 另外一种标题展示，只提供h1和h2标签  
 >> 另起一行，添加4个以上的====(h1标签)，----(h2标签)
@@ -59,7 +59,7 @@ markdown: rdiscount
 >> 敲两个回车(或者在一行的末端加两个或两个以上的空格)  
 
 > ### 插入一个URL超链接，用尖括号括起来即可  
->> < http://ideex.name >  
+>> <(网址)http://ideex.name>  
 
 > ### 加上文字链接,鼠标放上面会出现介绍文字
 >> \[google](http://google.com.hk "google")  
@@ -75,11 +75,11 @@ markdown: rdiscount
 
 > ### 斜体和粗体  
 >> 斜体：两边分别加上一个\*或者\_  
-粗体：两边分别加上2个*或者\_  
-例如：\*斜体\*   \_\_粗体\__   
+>> 粗体：两边分别加上2个*或者\_  
+
 
 > ### 无序列表  
->> 在每一项前面加上一个"*"、或者"+"、或者"-"即可，并且一定要跟一个空格
+>> 在每一项前面加上一个" * "、或者"+"、或者"-"即可，并且一定要跟一个空格
 
 > ### 有序列表  
 >> 在内容面前加上一个数字(随便一个数字),在加上一个".",跟空格，即可得到一个有序列表。
@@ -87,7 +87,7 @@ markdown: rdiscount
 
 欲了解更多，参考官网：<http://daringfireball.net/projects/markdown/>
 
-
+       
 
 #### 参考  
 - <http://www.yangzhiping.com/tech/wordpress-to-jekyll.html>  
