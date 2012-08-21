@@ -5,8 +5,8 @@ categories:
 - Technology
 - Data
 tags:
-- google
-- chrome
+- Google
+- Chrome
 - 登录
 ---
 

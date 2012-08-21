@@ -5,9 +5,9 @@ categories:
 - Data
 - Study
 tags:
-- markdown
-- text
-- jekyll
+- Markdown
+- Text
+- Jekyll
 ---
 
 # 何为**Markdown**？  

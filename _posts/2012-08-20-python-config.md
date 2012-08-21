@@ -5,7 +5,7 @@ categories:
 - Data
 tags:
 - Python
-- windows
+- Windows
 - 安装
 - 配置
 ---
