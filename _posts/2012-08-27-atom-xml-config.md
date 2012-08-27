@@ -69,8 +69,9 @@ layout: nil
 这样一个Atom的订阅就做好了，还是蛮简单的。不需要绕很多的圈子。  
 
 更多细节参考：  
+- <https://github.com/luolinjia/cn/blob/gh-pages/atom.xml>  
 
-- <https://github.com/luolinjia/cn/blob/gh-pages/atom.xml>
+
 
 
 
