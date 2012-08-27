@@ -33,28 +33,28 @@ layout: nil
   <title>ideex.name</title>
   <link href="http://ideex.name/"/>
   <link type="application/atom+xml" rel="self" href="http://ideex.name/atom.xml"/>
-  <updated>{{ site.time | date_to_xmlschema }}</updated>
+  <updated>{{ "{{ site.time | date_to_xmlschema " }}}}</updated>
   <id>http://ideex.name/</id>
   <author>
     <name>Karl Luo</name>
     <email>ideexto@gmail.com</email>
   </author>
 
-  {% raw %}
-  {% for post in site.posts %}
+
+{{ "{% for post in site.posts " }}%}
   <entry>
-    <id>http://ideex.name{{ post.id }}</id>
-    <link type="text/html" rel="alternate" href="http://ideex.name{{ post.url }}"/>
-    <title>{{ post.title | xml_escape }}</title>
-    <updated>{{ post.date | date_to_xmlschema }}</updated>
+    <id>http://ideex.name{{ "{{ post.id " }}}}</id>
+    <link type="text/html" rel="alternate" href="http://ideex.name{{ "{{ post.url " }}}}"/>
+    <title>{{ "{{ post.title | xml_escape " }}}}</title>
+    <updated>{{ "{{ post.date | date_to_xmlschema " }}}}</updated>
     <author>
       <name>Karl Luo</name>
       <uri>http://ideex.name/</uri>
     </author>
-    <content type="html">{{ post.content | xml_escape }}</content>
+    <content type="html">{{ "{{ post.content | xml_escape " }}}}</content>
   </entry>
-  {% endfor %}
-  {% endraw %}
+ {{ "{% endfor " }}%}
+
 </feed>
 {% endhighlight %}     
 
