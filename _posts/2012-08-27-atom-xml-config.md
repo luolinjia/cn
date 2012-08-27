@@ -43,7 +43,7 @@ layout: nil
 
  {{ "{% for post in site.posts " }}%}
   <entry>
-    <id>http://ideex.name{{ "{{ post.id " }}}}</id>
+    <id>{{ "{{ site.url " }}}}{{ "{{ post.id " }}}}</id>
     <link type="text/html" rel="alternate" href="{{ "{{ site.url " }}}}{{ "{{ post.url " }}}}"/>
     <title>{{ "{{ post.title | xml_escape " }}}}</title>
     <updated>{{ "{{ post.date | date_to_xmlschema " }}}}</updated>
