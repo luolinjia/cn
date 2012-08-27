@@ -11,4 +11,4 @@ comments: yes
 我一直在寻找一种轨道，始终给自己一种暗示：不要害怕尝试新的事物，勤奋工作，并且放松自己的心情，时刻保持微笑。还是那句牛逼的话：这世界上除了我自己以外没人敢说我脆弱，这就叫他妈的坚强。  
 
 
-> 本站是基于HTML5和CSS3构建的网站，如果想要达到最佳效果，请下载Chrome浏览器进行查看（[点击下载](https://www.google.com/intl/zh-CN/chrome/browser/?hl=zh-CN)）
+> 本站是基于HTML5和CSS3构建的网站，如果想要达到最佳效果，请下载Chrome浏览器进行查看（[点击下载](https://www.google.com/intl/zh-CN/chrome/browser/?hl=zh-CN)），如果要订阅本站，请点击[此处](http://ideex.name/cn/atom.xml)。
