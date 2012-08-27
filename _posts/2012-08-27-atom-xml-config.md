@@ -40,7 +40,6 @@ layout: nil
     <email>ideexto@gmail.com</email>
   </author>
 
-  {% highlight liquid %}
   {% raw %}
   {% for post in site.posts %}
   <entry>
@@ -56,7 +55,6 @@ layout: nil
   </entry>
   {% endfor %}
   {% endraw %}
-  {% endhighlight %}
 </feed>
 {% endhighlight %}     
 
