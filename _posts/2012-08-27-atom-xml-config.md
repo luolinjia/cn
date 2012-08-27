@@ -32,7 +32,7 @@ layout: nil
  
   <title>ideex.name</title>
   <link href="http://ideex.name/"/>
-  <link type="application/atom+xml" rel="self" href="http://ideex.name/atom.xml"/>
+  <link type="application/atom+xml" rel="self" href="http://ideex.name/cn/atom.xml"/>
   <updated>{{ "{{ site.time | date_to_xmlschema " }}}}</updated>
   <id>http://ideex.name/</id>
   <author>
@@ -41,10 +41,10 @@ layout: nil
   </author>
 
 
-{{ "{% for post in site.posts " }}%}
+ {{ "{% for post in site.posts " }}%}
   <entry>
     <id>http://ideex.name{{ "{{ post.id " }}}}</id>
-    <link type="text/html" rel="alternate" href="http://ideex.name{{ "{{ post.url " }}}}"/>
+    <link type="text/html" rel="alternate" href="{{ "{{ site.url " }}}}{{ "{{ post.url " }}}}"/>
     <title>{{ "{{ post.title | xml_escape " }}}}</title>
     <updated>{{ "{{ post.date | date_to_xmlschema " }}}}</updated>
     <author>
@@ -66,7 +66,11 @@ layout: nil
 <link href="{{ site.url }}/atom.xml" rel="alternate" title="Atom Rss" type="application/atom+xml" />
 {% endhighlight %}    
 
-这样一个Atom的订阅就做好了，还是蛮简单的。不需要绕很多的圈子。
+这样一个Atom的订阅就做好了，还是蛮简单的。不需要绕很多的圈子。  
+
+更多细节参考：  
+
+- <https://github.com/luolinjia/cn/blob/gh-pages/atom.xml>
 
 
 
