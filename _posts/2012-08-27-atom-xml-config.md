@@ -40,6 +40,8 @@ layout: nil
     <email>ideexto@gmail.com</email>
   </author>
 
+  {% highlight liquid %}
+  {% raw %}
   {% for post in site.posts %}
   <entry>
     <id>http://ideex.name{{ post.id }}</id>
@@ -53,9 +55,12 @@ layout: nil
     <content type="html">{{ post.content | xml_escape }}</content>
   </entry>
   {% endfor %}
- 
+  {% endraw %}
+  {% endhighlight %}
 </feed>
 {% endhighlight %}     
+
+
 
 把这段代码保存为atom.xml到主目录中，在网页上加以引用即可使用：   
 
