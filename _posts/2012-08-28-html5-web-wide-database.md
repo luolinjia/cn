@@ -29,6 +29,7 @@ db.transaction(function(tx){
 
 
 eg\.范例：HTML5本地数据库   
+HTML代码：  
 {% highlight html %}
 <!DOCTYPE html>
 <html>
@@ -59,7 +60,7 @@ eg\.范例：HTML5本地数据库
 </html>
 {% endhighlight %}   
 
-
+Javascript代码:   
 {% highlight javascript %}
 //页面的表格元素
 var datatable = null;
