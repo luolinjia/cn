@@ -14,11 +14,11 @@ tags:
 
 > 在HTML5中，内置了一种可以通过SQL语言来访问的数据库，在HTML4中，数据库只能放在服务器端，只能通过服务器来访问数据库，但是在HTML5中，可以就像访问本地文件那样轻松地对内置数据库进行直接访问。  
 
-现在，像这种不需要存储在服务器上的，被称为"SQLLite"的文件型SQL数据库已经得到了很广泛的利用，所以HTML5中也采用了这种数据库来作为本地数据库。那么要使用SQLLite数据库，有两个必要的步骤：  
+现在，像这种不需要存储在服务器上的，被称为"SQLLite"的文件型SQL数据库已经得到了很广泛的利用，所以HTML5中也采用了这种数据库来作为本地数据库。那么要使用SQLLite数据库，有两个必要的步骤：
 
 - 创建访问数据库对象  
 var db = openDatabase('mydb','1.0','test',1024 * 1024);  
-该方法有4个参数，分别为数据库名，版本号，数据库描述，数据库大小，如果有mydb这个数据，则访问，如果没有，就创建。  
+该方法有4个参数，分别为数据库名，版本号，数据库描述，数据库大小，如果有mydb这个数据，则访问，如果没有，就创建。
 - 使用事务处理    
 {% highlight javascript %}
 db.transaction(function(tx){
@@ -149,5 +149,12 @@ function saveData(){
 
 预览图：   
 
-![html5](http://i.imgur.com/z8kUP.png)  
+![html5](http://i.imgur.com/z8kUP.png)   
+
+#### 参考   
+- <http://www.w3.org/2008/webapps/wiki/Database>
+- <http://supercharles888.blog.51cto.com/609344/856071>
+- <http://blog.darkcrimson.com/2010/05/local-databases/>   
+
+
 
