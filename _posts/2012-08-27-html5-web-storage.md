@@ -5,6 +5,7 @@ categories:
 - Data
 - Study
 - HTML5
+- HTML5学习笔记
 tags:
 - HTML5
 - Javascript
