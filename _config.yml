@@ -2,5 +2,5 @@
 permalink: /:year/:month/:title/
 url: http://ideex.name/cn
 author: 骆林佳
+lsi:false
 pygments: true
-
