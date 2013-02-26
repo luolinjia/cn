@@ -40,7 +40,7 @@ Python中有四种数据类型：
 用三引号可以指示一个多行的字符串  
 例如：  
 
-{% highlight Python %}
+{% highlight python %}
 '''Firstline.
 Secondline.
 Thirdline.
