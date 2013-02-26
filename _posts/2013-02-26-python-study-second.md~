@@ -74,7 +74,7 @@ for：
 # Filename:for.py
 
 for i in range(1,7,2):
-	print i
+	print i，
 
 shoplist = ['x','i','w','r']
 
@@ -120,7 +120,7 @@ print 'Done'
 
 {% highlight python %}
 #!/usr/bin/python
-# Filename:func.py
+# Filename:while.py
 
 def sayHello(): #定义一个python函数，括号里面可以带参数
 	print 'call success!!'
