@@ -36,20 +36,20 @@ tags:
 4、 配置监听地址和端口：  vim /usr/local/pgsql/data/postgresql.conf  
 
 > 取消listen\_address和port两行注释，并赋值  
-listen\_address = "*"  
-port = 5432  
+> listen\_address = "\*"  
+> port = 5432  
 
 5、 让postgresql数据库随系统启动而启动：  
 
 > 将启动脚本拷贝到/etc/init.d/目录下，具体执行如下命令：  
-cd /etc/rc.d/init.d  
-cp (第一步解压的安装文件目录)/postgresql-9.1.1/contrib/start-scripts/linux postgresql  
-chmod +x postgresql  
-vi postgresql  
-prefix=/usr/local/pgsql  
-PGDATA="/usr/local/pgsql/data"  
-PGUSER=postgres  
-PGLOG="/var/log/pgsql.log"  
+> cd /etc/rc.d/init.d  
+> cp (第一步解压的安装文件目录)/postgresql-9.1.1/contrib/start-scripts/linux postgresql  
+> chmod +x postgresql  
+> vi postgresql  
+> prefix=/usr/local/pgsql  
+> PGDATA="/usr/local/pgsql/data"  
+> PGUSER=postgres  
+> PGLOG="/var/log/pgsql.log"  
 
 
 ![postgresql](http://i.imgur.com/U3jA5yI.png)  
@@ -58,8 +58,8 @@ PGLOG="/var/log/pgsql.log"
 
 7、 启动数据库 service postgresql start  
 
-> ps：一般是安装pgadmin3来管理数据库  
-yum install pgadmin3 -y
+> ps：一般是安装pgadmin3来管理数据库:  
+> yum install pgadmin3 -y
 
 
 > =========================================          
