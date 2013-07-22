@@ -20,13 +20,13 @@ A1：这当然主要归功于中国的墙了，我以前调试的那个版本是
 $ gem sources --remove https://rubygems.org/  
 $ gem sources -a http://ruby.taobao.org/  
 $ gem sources -l  
-*** CURRENT SOURCES ***  
+\*\*\* CURRENT SOURCES \*\*\*  
   
 http://ruby.taobao.org  
 
 ------------------------------  
 
-请确保只有 ruby.taobao.org   
+请确保只有 ruby.taobao.org镜像   
 然后再  
 
 $ gem install jekyll  
