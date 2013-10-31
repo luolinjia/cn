@@ -14,79 +14,79 @@ tags:
 
 准备工具：eclipse、maven插件
 
-###step 1  
+##step 1  
 
 File -> New -> Other -> Maven Project  
 
 ![1](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/pictures%20code/11_zps7fa72fc3.png)  
 
-###step 2  
+##step 2  
 
 Use default Workspace location 用默认的空间地址即可  
 
 ![2](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/pictures%20code/12_zps8bf2c714.png)  
 
-###step 3  
+##step 3  
   
 ![3](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/pictures%20code/13_zpsa97494c5.png)  
 
 
-###step 4  
+##step 4  
   
 ![4](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/pictures%20code/14_zpsea258f1a.png)  
 
-###step 5  
+##step 5  
 
 Finish -> 生成初始目录  
 
 ![5](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/pictures%20code/15_zps9b8061f0.png)  
 
-###step 6  
+##step 6  
 
 配置项目的目录，我们得配置maven的标准目录  
 右键项目 -> New -> Source Folder  
 
 ![6](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/pictures%20code/16_zps4c3c6bce.png)  
 
-###step 7  
+##step 7  
 
 配置后的目录
 
 ![7](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/pictures%20code/17_zpsf8b5388b.png)  
 
-###step 8  
+##step 8  
 
 右键项目 -> Properties -> Java Build Path -> Libraries  
 更改JDK支持为1.6  
 
 ![8](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/pictures%20code/18_zps6fa0cb09.png)  
 
-###step 9  
+##step 9  
 
 Java Compiler -> Compiler compliance level -> 1.6  
 
 ![9](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/pictures%20code/19_zpsa871818d.png)  
 
-###step 10  
+##step 10  
 
 Project Facets -> Convert to faceted form...  
 
 ![10](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/pictures%20code/20_zpscbc3b7d3.png)  
 
-###step 11  
+##step 11  
 
 Project Facets -> Dynamic Web Module -> 2.4  
 注意这里勾上Dynamic Web Module 并在后面的版本选择2.4  
 
 ![11](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/pictures%20code/21_zps8f7b87a0.png)  
 
-###step 12  
+##step 12  
 
 配置好上面所有的东西后的目录，然后双击pom.xml  
 
 ![12](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/pictures%20code/22_zpsac28dedd.png)  
 
-###step 13  
+##step 13  
 
 pom.xml 配置：  
 （注意这里写好保存后，maven会自动从管理库下载spring框架需要的lib依赖）  
@@ -136,7 +136,7 @@ pom.xml 配置：
 
 {% endhighlight %}
 
-###step 14  
+##step 14  
 
 等待上一步骤download好之后：  
 右键项目 -> Properties -> Deployment Assembly  
@@ -144,13 +144,13 @@ pom.xml 配置：
 
 ![14](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/pictures%20code/23_zps8711e260.png)  
 
-###step 15  
+##step 15  
 
 干掉后，按照下图新增需要部署的文件夹和lib依赖（这里是Maven Dependencies）  
 
 ![15](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/pictures%20code/24_zps7dee8d03.png)  
 
-###step 16  
+##step 16  
 
 到此步为止，算是整体搭建完毕，接下来，我们写个事例，测试一下。  
 
@@ -180,7 +180,7 @@ public class User {
 
 {% endhighlight %}  
 
-###step 17  
+##step 17  
 
 在src/main/java 下 建立 com.test.controller 包  
 写入Class:LoginController.java  
@@ -214,7 +214,7 @@ public class LoginController {
 
 {% endhighlight %}  
 
-###step 18  
+##step 18  
 
 在src/main/java/webapp/WEB-INF下配置web.xml  
 
@@ -247,7 +247,7 @@ public class LoginController {
 
 {% endhighlight %}  
 
-###step 19  
+##step 19  
 
 在src/main/java/webapp/WEB-INF下配置test-servlet.xml  
 
@@ -282,7 +282,7 @@ public class LoginController {
 </beans>
 {% endhighlight %}  
 
-###step 20  
+##step 20  
 
 在src/main/java/webapp/WEB-INF下配置applicationContext.xml  
 这里可以配置为空BEANS，这里不涉及到数据库  
@@ -294,7 +294,7 @@ public class LoginController {
 </beans>
 {% endhighlight %}  
 
-###step 21  
+##step 21  
 
 在src/main/java/webapp 下配置index.jsp  
 
@@ -306,7 +306,7 @@ public class LoginController {
 
 {% endhighlight %}  
 
-###step 22  
+##step 22  
 
 在src/main/java/webapp/WEB-INF 下新建文件夹jsp/main和jsp/login  
 在jsp/main 新建main.jsp  
@@ -348,13 +348,13 @@ public class LoginController {
 </body>
 {% endhighlight %}  
 
-###step 23  
+##step 23  
 
 所有的文件都准备完毕，编译打包到tomcat  
 
 ![23](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/pictures%20code/25_zps324c9b70.png)  
 
-###step 24  
+##step 24  
 
 效果图1：  
 
