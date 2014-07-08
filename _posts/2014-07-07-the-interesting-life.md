@@ -15,7 +15,7 @@ It's so long time that I haven't update my blog, I always felt tired since I had
 
 It is sunshine, I remind of my old time in my hometown WanZhou, it's also hot but our flat around the bamboo forest, even I breathe like in the air conditioner on the ground floor. The water from our well, to be added some saccharin, it's the most delicious water in my life. To be honest I will imagine  the picture which make me so fragile that I couldn't help to miss my hometown flat.   
 
-Whatever I will face, I am doing until I fall down. It's no chance to waste, to throw out. To be continued, reading, writing, listening, chatting, and so on.  
+Whatever I will face to, I am doing until I fall down. It's no chance to waste, to throw out. To be continued, reading, writing, listening, chatting, and so on.  
 
 It had gone, we could only do best by ourselves, we could cherish the time， and we could do we want to do， and we could fight for ourselves.  
 
