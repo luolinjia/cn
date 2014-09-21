@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 在Mac OS下安装**pscc**(photoshop cc)
+title: 在Mac OS下安装pscc(photoshop cc)
 categories:
 - Study
 - Data
