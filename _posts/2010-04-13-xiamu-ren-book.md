@@ -1,12 +1,14 @@
 ---
 layout: post
 title: 夏目友人帐
+logo: http://i.imgur.com/LacVT.jpg
 categories:
 - Movie
 tags:
 - 夏目友人帐
 - 妖怪
 - 影子
+- 温暖
 ---
 
 妖怪，这个荒诞的词语，但在夏目眼中，它变成了温暖的回忆，变成了心中那份淡淡的平静。
@@ -22,8 +24,3 @@ tags:
  
 
 看完后心里很温暖~这才是最重要的。
-
-
-![小玉](http://i.imgur.com/LacVT.jpg)
-
-小玉可爱的模样

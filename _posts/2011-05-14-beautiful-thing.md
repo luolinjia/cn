@@ -1,11 +1,14 @@
 ---
 layout: post
 title: 风景
+logo: http://i.imgur.com/w28AJ.jpg
 categories:
 - Emotion
 tags:
 - 六月的雨
 - 彩虹
+- 落叶
+- 生命
 ---
 
 
@@ -20,6 +23,3 @@ tags:
 
 > 如果能够重来一次，                                                                
 > 我希望不曾出现在你的生命里。
-
-
-![古剑场景](http://i.imgur.com/w28AJ.jpg)

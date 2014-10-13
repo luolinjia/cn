@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 一个人的朝圣
+logo: http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/s26936721_zpse5051f50.jpg
 categories:
 - Book
 - Emotion
@@ -30,8 +31,3 @@ tags:
 
 摘抄：  
 > 哈罗德开始回想从启程到现在，他见过的人，去过的地方，睡在野外时看过的夜空。它们成了他脑海里的纪念品，每次都是这些东西在最艰难的时刻支撑他走下去。但现在想着那些人、那些地、那些天空，他无法再在当中看到自己。走过的路挤满各式各样的汽车，见过的人还会经历更多萍水相逢，他的脚印无论多坚定，还是会被雨打风吹去。就像他从来没去过那些地方，见过那些人。一回头，就已经再找不到来时的路，看不到他走过的痕迹。  
-
-![singler](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/792C7CCADAB8_zpscd708d76.jpg)  
-
-> =========================================          
-> __于11.15下午__     

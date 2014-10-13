@@ -48,7 +48,3 @@ tags:
 
 ![Book](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/yapian_zpsf45c1ee7.png)  
 （图片说明：鸦片战争后的香港）
-
-
-> =========================================          
-> __于11.09下午__     

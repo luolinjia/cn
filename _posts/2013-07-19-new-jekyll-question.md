@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Jekyll新问题
+logo: http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/764397636140_zpsf772d32b.jpg
 categories:
 - Study
 tags:
@@ -44,8 +45,3 @@ $ gem install pygments.rb --version "=0.5.0"
 ---------------------------------  
 
 （待续，遇到问题再添加）  
-
-![](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/764397636140_zpsf772d32b.jpg)
-
-> =========================================          
-> __于07.19下午__     

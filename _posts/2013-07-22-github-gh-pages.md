@@ -56,7 +56,3 @@ $ git push -u origin gh-pages
 #### 参考  
 
 [http://www.worldhello.net/gotgithub/03-project-hosting/050-homepage.html](http://www.worldhello.net/gotgithub/03-project-hosting/050-homepage.html)  
-
-
-> =========================================          
-> __于07.22下午__     

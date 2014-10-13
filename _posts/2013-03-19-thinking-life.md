@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 行动起来吧，少年
+logo: http://i.imgur.com/7ryondB.jpg
 categories:
 - Book
 - Travel
@@ -24,8 +25,3 @@ tags:
 
 接下来，认认真真思考我的旅程，因为我会用毕生的精力去实现它。行动吧，少年！  
 
-![NZ](http://i.imgur.com/7ryondB.jpg)
-
-
-> =========================================          
-> __于03.19晚上__     

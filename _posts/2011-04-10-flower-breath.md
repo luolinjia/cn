@@ -1,11 +1,15 @@
 ---
 layout: post
 title: 花在呼吸
+logo: http://i.imgur.com/rTlic.jpg
 categories:
 - Emotion
 tags:
 - 林荫道
 - 阳光
+- 花香
+- 呼吸
+- 樱花
 ---
 
 
@@ -20,6 +24,3 @@ tags:
 
 > 喜欢听你仔细地诉说你们学校的林荫道，                                                                
 > 一颗颗大树，让你怀念的样子，像花在呼吸。
-
-
-![呼吸](http://i.imgur.com/rTlic.jpg)

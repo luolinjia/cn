@@ -1,6 +1,7 @@
 ---
 layout: post
 title: IETLS Writing(3)之关系连词
+logo: http://i.imgur.com/cbCkT9k.jpg
 categories:
 - Book
 - English
@@ -89,9 +90,3 @@ Admittedly,...Nevertheless, ...（常用来先承认某一看法有一定的道�
 本质上是……  
 ..., which is, essentially, ...  
 
-
-![itels4](http://i.imgur.com/cbCkT9k.jpg)
-
-
-> =========================================          
-> __at April 15 evening__     

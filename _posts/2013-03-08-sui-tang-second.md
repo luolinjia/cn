@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 隋唐时光轴之隋朝(二)
+logo: http://i.imgur.com/j9QhQWy.jpg
 categories:
 - Book
 - History
@@ -67,8 +68,4 @@ tags:
 
 > 历史上的同时期历史名人太多，容我日后一一介绍。  
 
-![suitang](http://i.imgur.com/j9QhQWy.jpg)
 
-
-> =========================================          
-> __于03.08下午__     

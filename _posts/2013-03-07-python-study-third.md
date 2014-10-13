@@ -155,8 +155,6 @@ if 'Guido' in ab: # OR ab.has_key('Guido')匹配在字典ab中符合Guido的信�
 {% endhighlight %}  
 
 
-
-
 #### 参考  
 
 [《简明Python教程》](http://woodpecker.org.cn/abyteofpython_cn/chinese/)

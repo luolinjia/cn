@@ -1,92 +1,56 @@
 ---
-layout: defaultpost
+layout: default
 ---
 
-<div id="posttime"><span class="time">
-  Written in
-  <time datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date:"%Y-%m-%d" }}</time>
-</span></div>
-<div>
-{% if page.categories %}
-<span class="categories">
-  Categories:
-  {% for cat in page.categories %}
-  <a href="{{ site.url }}/categories/#{{ cat }}" title="{{ cat }}">{{ cat }}</a>&nbsp;
-  {% endfor %}
-</span>
-{% endif %}
-{% if page.tags %}
-<span class="tags">
-  Tags:
-  {% for tag in page.tags %}
-  <a href="{{ site.url }}/tags/#{{ tag }}" title="{{ tag }}">{{ tag }}</a>&nbsp;
-  {% endfor %}
-</span>
-{% endif %}
+
+<div class="post-logo"><img src="{{ page.logo }}"/></div>
+<div class="post-title">{{ page.title }}</div>
+
+<div class="post-title-desc">
+    <!--{% if page.categories %}-->
+    <!--<span class="categories">-->
+    <!--Categories:-->
+    <!--{% for cat in page.categories %}-->
+    <!--<a href="{{ site.url }}/categories/#{{ cat }}" title="{{ cat }}">{{ cat }}</a>&nbsp;-->
+    <!--{% endfor %}-->
+    <!--</span>-->
+    <!--{% endif %}-->
+    <span>
+        <time datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date:"%Y-%m-%d" }}</time>
+    </span>
+    {% if page.tags %}
+    <span class="tags">
+      {% for tag in page.tags %}
+      <a href="{{ site.url }}/tags/#{{ tag }}" title="{{ tag }}">#{{ tag }}</a>&nbsp;
+      {% endfor %}
+    </span>
+    {% endif %}
 </div>
 <hr>
 <br/>
 
 <section class="post">
-{{ content }}
-</section>
-<section class="">
-	<!-- Baidu Button BEGIN -->
-    <div id="bdshare" class="bdshare_t bds_tools_32 get-codes-bdshare">
-        <a class="bds_qzone"></a>
-        <a class="bds_tsina"></a>
-        <a class="bds_tqq"></a>
-        <a class="bds_renren"></a>
-        <span class="bds_more">baidu</span>
-		<a class="shareCount"></a>
-    </div>
-<script type="text/javascript" id="bdshare_js" data="type=tools" ></script>
-<script type="text/javascript" id="bdshell_js"></script>
-<script type="text/javascript">
-	document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + new Date().getHours();
-</script>
-<!-- Baidu Button END -->
+    {{ content }}
 </section>
 <section class="meta">
-<div align="right">
+    <div align="right">
 <span class="author">
   <a href="http://ideex.name">{{ site.author }}</a>
 </span>
-</div>
-<div align="right">
+    </div>
+    <div align="right">
 <span class="license">
   Published under <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">(CC) BY-NC-SA</a>
 </span>
-</div>
+    </div>
 </section>
-<div><span>Previous</span><span style="float:right;">Next</span></div>
-<div class="navigation">
-	    {% if page.next %}
-	      <a class="next" href="{{ site.url }}{{ page.next.url }}">&laquo;&nbsp;{{ page.next.title | truncatewords:5 }}</a>
-	    {% endif %}
-	    {% if page.previous %}
-	    	<a class="prev" href="{{ site.url }}{{ page.previous.url }}" style="float:right">{{ page.previous.title | truncatewords:5 }}&nbsp;&raquo;</a>
-	    {% endif %}
-</div>
+<!--<div><span>Previous</span><span style="float:right;">Next</span></div>-->
+<!--<div class="navigation">-->
+<!--{% if page.next %}-->
+<!--<a class="next" href="{{ site.url }}{{ page.next.url }}">&laquo;&nbsp;{{ page.next.title | truncatewords:5 }}</a>-->
+<!--{% endif %}-->
+<!--{% if page.previous %}-->
+<!--<a class="prev" href="{{ site.url }}{{ page.previous.url }}" style="float:right">{{ page.previous.title | truncatewords:5 }}&nbsp;&raquo;</a>-->
+<!--{% endif %}-->
+<!--</div>-->
 {% include comments.md %}
-<script type="text/javascript">
-$(function(){
-  $(document).keydown(function(e) {
-    var url = false;
-        if (e.which == 37 || e.which == 74) {  // Left arrow and J
-            {% if page.previous %}
-        url = '{{ site.url }}{{ page.previous.url }}';
-        {% endif %}
-        }
-        else if (e.which == 39 || e.which == 75) {  // Right arrow and K
-            {% if page.next %}
-        url = '{{ site.url }}{{ page.next.url }}';
-        {% endif %}
-        }
-        if (url) {
-            window.location = url;
-        }
-  });
-})
-</script>
-

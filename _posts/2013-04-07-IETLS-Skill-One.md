@@ -1,6 +1,7 @@
 ---
 layout: post
 title: IETLS Writing(1)之思考素材
+logo: http://i.imgur.com/7EwDlwb.jpg
 categories:
 - Book
 - English
@@ -41,8 +42,3 @@ key: TM STREEC $
 
 > 肥胖人数激增的原因可以从technology(特别是office and factory automation办公室与厂房中的自动化)，time(公众的leisure time休闲时间的增多)，health(lack of health consciousness健康意识的缺乏与addiction to junk food 依赖垃圾食品等)，money & fun(人们用于食品的消费增加，但缺乏运动，看电视的时间过长)等方面都可以言之有据。相应的，解决办法就有鼓励大家少吃多运动(encourage people to exercise regularly and avoid highcalorie diets)以及减少对于technology的依赖等。  
 
-![itels1](http://i.imgur.com/7EwDlwb.jpg)
-
-
-> =========================================          
-> __at April 07 afternoon__     

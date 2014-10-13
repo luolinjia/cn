@@ -7,25 +7,9 @@
     <link rel="shortcut icon" href="/favicon.ico">
     <link href="{{ site.url }}/atom.xml" rel="alternate" title="Atom Rss" type="application/atom+xml" />
     <link rel="stylesheet" href="/medias/css/post.css">
+    <link rel="stylesheet" href="/medias/css/iconfont.css"/>
     <script type="text/javascript" src="/medias/js/jquery-1.7.1.min.js"></script>
-    <style>
-    	#menu ul li a.home{
-		  background-image: url(../medias/img/index/menu.png);
-		  background-position: 142px 0;
-		}
-		#menu ul li a.post{
-		  background-image: url(../medias/img/index/menu.png);
-		  background-position: 71px -71px;
-		}
-		#menu ul li a.about{
-		  background-image: url(../medias/img/index/menu.png);
-		  background-position: 142px -142px;
-		}
-		#menu ul li a.comment{
-		  background-image: url(../medias/img/index/menu.png);
-		  background-position: 142px -213px;
-		}
-    </style>
+
   </head>
   <body>
 
@@ -33,45 +17,24 @@
     <div id="wrap">
         <!-- header start -->
         <div id="header">
+            <div id="logo"></div>
             <div id="menu">
                 <ul>
-                    <li class="bottom"><a id="ehome" class="home" href="http://ideex.name" title="HOME"><span>HOME</span></a></li>
-                    <li class="top"><a id="epost" class="post" href="{{ site.url }}/" title="POST"><span>POST</span></a></li>
-                    <li class="bottom"><a id="eabout" class="about" href="{{ site.url }}/about/"  title="ABOUT"><span>ABOUT</span></a></li>
-                    <li class="top"><a id="ecomment" class="comment" href="{{ site.url }}/comment/" title="COMMENTS"><span>COMMENTS</span></a></li>
+                    <li><a href="http://ideex.name" title="Home"><i class="idarkgray iconfont">&#xf012b</i></a></li>
+                    <li><a href="/" title="Post"><i class="idarkgray iconfont">&#xf0161</i></a></li>
+                    <li><a href="/about/"  title="About"><i class="idarkgray iconfont">&#xf01a1</i></a></li>
+                    <li><a href="/tags/" title="Tags"><i class="idarkgray iconfont">&#xf0152</i></a></li>
                 </ul>
             </div>
         </div>
         <!-- header end -->
-        <!-- sidebar start -->
-        <div id="sidebar">
-            <div class="introduce" id="gogo"><img src="../medias/img/index/post.png" /></div>
-            <div class="summary">Contains the record of<br/>  <span>life</span>, <span>study</span> & <span>work</span>.</div>
-            <div id="functions">
-                <ul>
-                    <li><a href="{{ site.url }}/categories/">Categories</a></li>
-                    <li><a href="{{ site.url }}/tags/">Tags</a></li>
-                    <li><a href="{{ site.url }}/link/">Link</a></li>
-                </ul>
-            </div>
-            <div class="sidebar_below">
-                <ul class="s_icon">
-                    <li><a class="s_qq" title="QQ" href="tencent://message/?uin=360512239&Site=ideex.name&Menu=yes"><span><span>qq</span></span></a></li>
-                    <li><a class="s_gmail" title="gmail" href="mailto:ideexto@gmail.com"><span><span>gmail</span></span></a></li>
-                    <li><a class="s_weibo" title="weibo" href="http://t.qq.com/xiao_luove"><span><span>weibo</span></span></a></li>
-                </ul>
-            </div>
-        </div>
-        <!-- sidebar end -->
 
         <!-- content start -->
-        <div class="centercontent">
-            
-            <hr>
+        <div class="center-content">
       		<div class="pad">
-      		<article class="content">
-      			{{ content }}
-      		</article>
+                <article class="content">
+                    {{ content }}
+                </article>
       		</div>
       	</div>
         <!-- content end -->
@@ -90,21 +53,105 @@
     		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   		})();
 	</script>
-	<script type="text/javascipt">
-		$(function () {
-		    $('#tag_cloud a').tagcloud();
-			$('#tag_cloud a').mouseover(
-				function(){
-					$(this).css('color','#05a1c5');
-				}
-			);
-			$('#tag_cloud a').mouseout(
-				function(){
-					$(this).css('color','#c0edf7');
-				}
-			);
-		});	
-	</script>
+    <script type="text/javascript">
+
+        var currentScroll = 0;
+
+        $(function(){
+            $(window).scroll(function(){
+                myScroll();
+            });
+
+            showBeautifulWords();
+        });
+
+        function myScroll() {
+            var nextScroll = $(this).scrollTop(), $header = $('#header');
+//            console.log('scrollPosition' + $(document).scrollTop() + 'currentScroll: => ' + currentScroll + '  nextScroll: => ' + nextScroll);
+            if (nextScroll > currentScroll){
+                $header.removeClass('in bgColor').addClass('out');
+                if (nextScroll >= $(document).height()-$(window).height()){
+                    $header.removeClass('out').addClass('in bgColor');
+                }
+                if ($(document).scrollTop() <= 0) {
+                    $header.removeClass('out').addClass('in');
+                    $header.removeClass('bgColor');
+                }
+            }
+            else {
+                $header.removeClass('out').addClass('in bgColor');
+                if ($(window).scrollTop() >= 0 && $(window).scrollTop() <= 100) {
+                    $header.removeClass('bgColor');
+                }
+            }
+
+            if ($(window).width() >= 1000) {
+                $header.removeClass('bgColor');
+            }
+
+            //Updates current scroll position
+            currentScroll = nextScroll;
+        }
+
+        var allWords = [{
+            'id': 1,
+            'title': '',
+            'content': '所遇见的美好，都在转身的一瞬间，殒灭！',
+            'author': ''
+        }, {
+            'id': 2,
+            'title': '',
+            'content': '忧国忘家，捐躯济难，忠臣之志也。',
+            'author': '曹植'
+        }, {
+            'id': 3,
+            'title': '',
+            'content': '君子之交淡如水，小人之交甘若醴。',
+            'author': '《庄子》'
+        }, {
+            'id': 4,
+            'title': '',
+            'content': '读书本意在元元。',
+            'author': '陆游'
+        }, {
+            'id': 5,
+            'title': '',
+            'content': '言之无文，行而不远。',
+            'author': '《左传》'
+        }, {
+            'id': 6,
+            'title': '',
+            'content': '博观而约取，厚积而薄发。',
+            'author': '苏轼'
+        }, {
+            'id': 7,
+            'title': '',
+            'content': '黑发不知勤学早，白首方悔读书迟。',
+            'author': '《劝学》'
+        }];
+
+        function showBeautifulWords() {
+
+            var self = $('#logo');
+            self.addClass('logo-in');
+            self.mouseover(function () {
+                var ranWord = Math.floor(Math.random() * allWords.length), wordDom = '<div class="logo-word"><div class="logo-title">' + allWords[ranWord]['title'] + '</div><div class="logo-content"><span></span>' + allWords[ranWord]['content'] + '</div><div class="logo-author">' + allWords[ranWord]['author'] + '</div></div>';
+
+                self.removeClass('logo-in').addClass('logo-out');
+                if ($('.logo-word').length <= 0)
+                    setTimeout(function(){self.append(wordDom);}, 1000);
+            }).mouseleave(function () {
+                self.removeClass('logo-out').addClass('logo-in');
+                var logoWord = $('.logo-word');
+                if (logoWord) {
+                    logoWord.fadeOut(100, function () {
+                        self.empty();
+                    })
+                }
+            });
+        }
+
+    </script>
 
   </body>
 </html>

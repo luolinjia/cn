@@ -1,6 +1,7 @@
 ---
 layout: post
 title: U Went Away?
+logo: http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/73A995F72785_zps05301d04.jpg
 categories:
 - Emotion
 - Life
@@ -18,9 +19,3 @@ That day when U told me all matters had ended, that was black. I would always th
 Maybe U are a little language that compiles into my understood language. Underneath that awkward dating, U have always had a gorgeous will. But I am an attempt to expose the bad parts of U in a foolish way. Once misconceived, anything is over just like the TV series, which are still in it.  
 
 A new life goes on and accompanies a sad, tears and hope. I'm going to embrace it!Bless u! It will be toward a better tommorrow!  
-
-![flower](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/73A995F72785_zps05301d04.jpg)
-
-
-> =========================================          
-> __At 3.6 Good Night__     

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: IETLS Speaking(1) 常用小词
+logo: http://i.imgur.com/cpee9te.jpg
 categories:
 - Book
 - English
@@ -193,9 +194,3 @@ tags:
 
 > e.g. The bustling city life suits Jeremy better.  
 
-
-![itels1](http://i.imgur.com/cpee9te.jpg)
-
-
-> =========================================          
-> __at April 08 evening__     

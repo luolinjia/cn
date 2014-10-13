@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 三贱客
+logo: http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/73F4D7C7641F_zps4a507f7b.jpg
 categories:
 - Emotion
 - Life
@@ -32,9 +33,3 @@ tags:
 当晚我们就决定，我们都往上海出发，原因有3：1是跟重庆处于同一纬度，生活的气温应该相差无几，2是上海的大环境要比北京好，相对是中国的经济中心，3是上海有同学可以帮忙解决前期的住房压力。于是，三贱客从此开始了新的生活。  
 
 武汉一些简短的回忆都随风飘散，即使有些令人心动的场景，也随着风沙埋葬在地里，闭目相忘。
-
-![butterfly](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/73F4D7C7641F_zps4a507f7b.jpg)
-
-
-> =========================================          
-> __于08.19下午__     

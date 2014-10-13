@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 听
+logo: http://i.imgur.com/rVef5.jpg
 categories:
 - Life
 - Emotion
@@ -20,11 +21,3 @@ tags:
 
 环绕在耳边的，玻璃的脆裂。  
 消失的画面，再也听不到。  
-
-
-![self](http://i.imgur.com/rVef5.jpg)    
-
-
-
-> =========================================          
-> __于11.29深夜__     

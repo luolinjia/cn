@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 缺失的碎片
+logo: http://i.imgur.com/j0knC.jpg
 categories:
 - Life
 tags:
@@ -25,9 +26,3 @@ tags:
 
 **chip others**：  
 天空犹如是灰色的，刚从超市买的彩色笔也没有想象中的丰富，踏着沉重的步子往家里走，只想躺着。   
-
-
-![碎片](http://i.imgur.com/j0knC.jpg)
-
-> =========================================          
-> __于10.28凌晨__     

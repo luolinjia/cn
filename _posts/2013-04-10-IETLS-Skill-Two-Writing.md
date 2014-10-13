@@ -1,6 +1,7 @@
 ---
 layout: post
 title: IETLS Writing(2) 基础句型
+logo: http://i.imgur.com/jjxI8wN.jpg
 categories:
 - Book
 - English
@@ -196,9 +197,3 @@ e.g. Fresh water is **in increasingly short supply** in many regions of the worl
 
 e.g. The design of modern buildings often turns out to **be markedly incompatible with** historical surroundings in terms of the materials, form and colours.  
 
-
-![itels3](http://i.imgur.com/jjxI8wN.jpg)
-
-
-> =========================================          
-> __at April 10 afternoon__     

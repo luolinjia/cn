@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 我的名字对你有何意义？
+logo: http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/7F89ED64680C_zps42d3d5ee.jpg
 categories:
 - Emotion
 - Life
@@ -24,9 +25,3 @@ tags:
 也许没有意义，也许有意义的不仅仅是名字本身。  
 
 我置身于熙熙攘攘的街道，来去匆匆的脚步，此时，我仅仅是个看客；像星光般灿烂，让我忘记了何时来到的这里；名字也许在这时没有了意义，但在你独自孤独、悲伤的日子里，请让我给你悄悄说：我记得你的名字，你活在我的心里。  
-
-![balloon](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/7F89ED64680C_zps42d3d5ee.jpg)
-
-
-> =========================================          
-> __于2.24下午__     

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Java版iPhone批量推送
+logo: http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/7510EA6756ED_zpsa7b5f3cd.jpg
 categories:
 - Study
 - Work
@@ -8,6 +9,7 @@ tags:
 - 手機推送
 - Java
 - iPhone
+- 证书
 ---
 
 > 据網上版本進行更改  
@@ -102,7 +104,3 @@ javapns-jdk16-163.jar
 
 > Ps:最重要的就是一定要保證證書文件的正確性，此上方法即可適用單個推送，也可滿足群組推送
 
-![](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/7510EA6756ED_zpsa7b5f3cd.jpg)
-
-> =========================================          
-> __于06.19下午__     

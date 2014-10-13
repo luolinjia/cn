@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 乡的味道
+logo: http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/70DEE762EAA3_zps08f59dc0.jpg
 categories:
 - Emotion
 - Life
@@ -20,10 +21,3 @@ tags:
 * 走家串户：放暑假，也许2个月的时间有1个多月都是在表哥家、姨妈家、外婆家。到处走，现在看来就是厚着脸皮到处跑，也许自己从小都不安分，喜欢到处乱跑。那个时候，都忘记了还有太阳这个东西，都沉浸在自己享乐的精神世界里面。  
 
 当然还有许多，偶然想起，偶然记下，回味着儿时品过的茶，即使是现在，都散发着阵阵清香。  
-
-
-![butterfly](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/70DEE762EAA3_zps08f59dc0.jpg)
-
-
-> =========================================          
-> __于08.06下午__     

@@ -1,12 +1,14 @@
 ---
 layout: post
 title: 踏晨
+logo: http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/morning_zps933e47fc.jpeg
 categories:
 - Life
 tags:
 - 心情
 - 画面
 - 校园
+- 唯美
 ---
 
 很久很久了，

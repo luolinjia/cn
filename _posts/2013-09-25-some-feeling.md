@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 睡前星光
+logo: http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/713ED9B1F8B0_zps25ac9bfa.jpg
 categories:
 - Emotion
 - Life
@@ -19,9 +20,3 @@ tags:
 
 
 习惯性地点开 Douban.fm “李小沛 《古老的传说》”，安静入睡。。
-
-![butterfly](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/713ED9B1F8B0_zps25ac9bfa.jpg)
-
-
-> =========================================          
-> __于09.25下午__     
