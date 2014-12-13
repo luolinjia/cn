@@ -1,5 +1,5 @@
 ---
-title: About me
+title: 个人
 layout: page
 comments: yes
 ---
