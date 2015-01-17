@@ -7,8 +7,8 @@ categories:
 - English
 - IETLS
 tags:
-- English Writing
-- Complex Sentences
+- EnglishWriting
+- ComplexSentences
 ---
 
 > 基础句型  
