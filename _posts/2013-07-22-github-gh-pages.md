@@ -6,7 +6,7 @@ categories:
 - Data
 tags:
 - Jekyll
-- Github Pages
+- GithubPages
 ---
 
 > 创建一个gh-pages分支的工程  
