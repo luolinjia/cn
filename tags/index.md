@@ -11,9 +11,9 @@ layout: page
 
 <ul class="listing">
 {% for tag in site.tags %}
-  <li class="listing-seperator" id="{{ tag[0] }}">{{ tag[0] }}</li>
+  <li class="listing-seperator {{ tag[0] }}">{{ tag[0] }}</li>
 {% for post in tag[1] %}
-  <li class="listing-item" id="{{ tag[0] }}">
+  <li class="listing-item {{ tag[0] }}">
   <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
   <a href="/cn/{{ post.url }}" title="{{ post.title }}" class="listing-item-a">{{ post.title }}</a>
   </li>
@@ -43,9 +43,9 @@ layout: page
                 $(this).css({'color': recentColor});
             })
             .click(function() { // update the showing tags style
-                var id = $(this).html();
+                var clazz = $(this).html();
                 $('.listing-seperator, .listing-item').hide();
-                $('#' + id).show();
+                $('.' + clazz).show();
             });
     });
 </script>
