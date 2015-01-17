@@ -5,7 +5,7 @@ layout: page
 
 <div id='tag_cloud'>
 {% for tag in site.tags %}
-<a href="#{{ tag[0] }}" title="{{ tag[0] }}" rel="{{ tag[1].size }}">{{ tag[0] }}</a>
+<a href="#" title="{{ tag[0] }}" rel="{{ tag[1].size }}">{{ tag[0] }}</a>
 {% endfor %}
 </div>
 
@@ -13,7 +13,7 @@ layout: page
 {% for tag in site.tags %}
   <li class="listing-seperator" id="{{ tag[0] }}">{{ tag[0] }}</li>
 {% for post in tag[1] %}
-  <li class="listing-item">
+  <li class="listing-item" id="{{ tag[0] }}">
   <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
   <a href="/cn/{{ post.url }}" title="{{ post.title }}" class="listing-item-a">{{ post.title }}</a>
   </li>
@@ -29,7 +29,8 @@ layout: page
         color: {start: '#ACE6E6', end: '#226666'}
     };
     $(function () {
-    var recentColor, recentSize;
+        $('.listing-seperator, .listing-item').hide();
+        var recentColor, recentSize;
         $('#tag_cloud a')
             .tagcloud()
             .mouseover(function(){
@@ -40,6 +41,11 @@ layout: page
             })
             .mouseout(function(){
                 $(this).css({'color': recentColor});
+            })
+            .click(function() { // update the showing tags style
+                var id = $(this).html();
+                $('.listing-seperator, .listing-item').hide();
+                $('#' + id).show();
             });
     });
 </script>
