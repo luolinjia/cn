@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 博客更新日志(v3.2) -12/16/2014
+title: 博客更新日志(v3.2)
 logo: http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/7FDC099965EE_zps99d7f663.jpg
 categories:
 - Life
