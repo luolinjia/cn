@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 博客更新日志(v3.2)
-logo: http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/7FDC099965EE_zps99d7f663.jpg
+logo: http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/title_zps31f49f82.png
 categories:
 - Life
 - Study
