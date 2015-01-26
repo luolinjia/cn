@@ -15,7 +15,7 @@ layout: page
 {% for post in tag[1] %}
   <li class="listing-item {{ tag[0] }}">
   <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
-  <a href="/cn/{{ post.url }}" title="{{ post.title }}" class="listing-item-a">{{ post.title }}</a>
+  <a href="cn/{{ post.url }}" title="{{ post.title }}" class="listing-item-a">{{ post.title }}</a>
   </li>
 {% endfor %}
 {% endfor %}
