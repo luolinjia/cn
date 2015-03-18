@@ -2,8 +2,9 @@
 layout: default
 ---
 
-
+{% if page.logo %}
 <div class="post-logo"><img src="{{ page.logo }}"/></div>
+{% endif %}
 <div class="post-title">{{ page.title }}</div>
 
 <div class="post-title-desc">
