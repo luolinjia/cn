@@ -29,7 +29,7 @@ Github的出现进一步推动了Git的普及，并简化了版本控制的管�
 # Jekyll博客系统  
 那么我们的Jekyll系统就跟这个Github Pages有莫大的关联了，因为Jekyll的主页就是Github Pages的一种展示方式，Github Pages提供Jekyll所需要的所有环境，只需要用户在本地Jekyll调试成功后，将代码push到Github代码托管到名为：你的用户名.github.com的资源库（这个资源库要在github.com上新建）中即可，比如我的用户名为luolinjia，等待几分钟，那么我就可以直接在地址栏输入：luolinjia.github.com即可直接访问你刚才在本地调试成功的jekyll项目。  
 
-- 有关本地调试搭建Jekyll环境参见：[本地Jekyll的安装(windows下)](http://ideex.name/cn/2012/08/windows-jekyll-install/)  
+- 有关本地调试搭建Jekyll环境参见：[本地Jekyll的安装(windows下)](http://luolinjia.com/cn/2012/08/windows-jekyll-install/)  
 - 想要了解更多有关Github Pages写Jekyll博客，看文章[《理想的写作环境：git+github+markdown+jekyll》](http://www.yangzhiping.com/tech/writing-space.html)   
  
 
@@ -120,7 +120,7 @@ $ git push origin master
 
 然后就等github帮你把网页生成出来就OK了，一般10分钟就OK，然后输入iyouhao.github.com然后你搭建的Jekyll博客就OK了。
 
-> 接下来你需要做的就是把\_posts里面的文章换成你自己需要的文章即可，写博客的时候，在\_posts里面新建一个markdown文件，文件名和文件里面的头部信息按照模版样式改如果你不熟悉Markdown语法，请看[这里](http://ideex.name/cn/2012/08/markdown-flag/)，如果你对你找的这个网站的样式不满意，那么就自己写样式，不过免于麻烦，你需要写好样式在本地Jekyll系统进行调试，调整到自己满意的样式即可，再push代码到github网站上。  
+> 接下来你需要做的就是把\_posts里面的文章换成你自己需要的文章即可，写博客的时候，在\_posts里面新建一个markdown文件，文件名和文件里面的头部信息按照模版样式改如果你不熟悉Markdown语法，请看[这里](http://luolinjia.com/cn/2012/08/markdown-flag/)，如果你对你找的这个网站的样式不满意，那么就自己写样式，不过免于麻烦，你需要写好样式在本地Jekyll系统进行调试，调整到自己满意的样式即可，再push代码到github网站上。  
 
 
 

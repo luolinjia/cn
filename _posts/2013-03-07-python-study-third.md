@@ -9,7 +9,7 @@ tags:
 - Linux
 ---
 
-> 有关Python在windows下的配置就不再累述，参考博文[Python 3.2.3 安装和配置](http://ideex.name/cn/2012/08/python-config/)  
+> 有关Python在windows下的配置就不再累述，参考博文[Python 3.2.3 安装和配置](http://luolinjia.com/cn/2012/08/python-config/)  
 
 > 在linux下，一般都会默认安装Python，我这里用的是fedora17 默认的python 2.7.3 够用了，相关详细配置有待后面详细说明，这里不是重点。  
 

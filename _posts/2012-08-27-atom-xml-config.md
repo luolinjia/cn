@@ -30,11 +30,11 @@ layout: nil
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
-  <title>ideex.name</title>
-  <link href="http://ideex.name/cn/"/>
-  <link type="application/atom+xml" rel="self" href="http://ideex.name/cn/atom.xml"/>
+  <title>luolinjia.com</title>
+  <link href="http://luolinjia.com/cn/"/>
+  <link type="application/atom+xml" rel="self" href="http://luolinjia.com/cn/atom.xml"/>
   <updated>{{ "{{ site.time | date_to_xmlschema " }}}}</updated>
-  <id>http://ideex.name/cn/</id>
+  <id>http://luolinjia.com/cn/</id>
   <author>
     <name>Karl Luo</name>
     <email>ideexto@gmail.com</email>
@@ -49,7 +49,7 @@ layout: nil
     <updated>{{ "{{ post.date | date_to_xmlschema " }}}}</updated>
     <author>
       <name>Karl Luo</name>
-      <uri>http://ideex.name/cn/</uri>
+      <uri>http://luolinjia.com/cn/</uri>
     </author>
     <content type="html">{{ "{{ post.content | xml_escape " }}}}</content>
   </entry>

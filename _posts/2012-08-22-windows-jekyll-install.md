@@ -16,7 +16,7 @@ tags:
 
 # Step1:  
 
-安装Ruby，具体参考：[Ruby安装和配置](http://ideex.name/cn/2012/08/ruby-install/)  
+安装Ruby，具体参考：[Ruby安装和配置](http://luolinjia.com/cn/2012/08/ruby-install/)  
 
 # Step2:  
 下载DevKit([点此下载](http://rubyinstaller.org/downloads/))，解压，cmd进入此目录，输入以下命令：  
@@ -52,7 +52,7 @@ $ gem install rdiscount
 
 # Step5  
 
-安装Python，参见博文[Python 3.2.3 安装和配置](http://ideex.name/cn/2012/08/python-config/)  
+安装Python，参见博文[Python 3.2.3 安装和配置](http://luolinjia.com/cn/2012/08/python-config/)  
 
 # Step6  
 

@@ -59,7 +59,7 @@ markdown: rdiscount
 >> 敲两个回车(或者在一行的末端加两个或两个以上的空格)  
 
 > ### 插入一个URL超链接，用尖括号括起来即可  
->> <(网址)http://ideex.name>  
+>> <(网址)http://luolinjia.com>  
 
 > ### 加上文字链接,鼠标放上面会出现介绍文字
 >> \[google](http://google.com.hk "google")  

@@ -11,7 +11,7 @@ tags:
 - css3
 ---
 
-> 上次更新日志：[v3.2更新日志](http://ideex.name/cn/2014/12/update-cnblog-log/)
+> 上次更新日志：[v3.2更新日志](http://luolinjia.com/cn/2014/12/update-cnblog-log/)
 
 本次更新下面3个体验性功能：  
 
