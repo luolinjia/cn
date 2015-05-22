@@ -229,4 +229,31 @@ $('#textBox').waterfall({
 		});
 	};
 })(jQuery);
-{% endhighlight %}
+{% endhighlight %}  
+
+附插件CSS代码：  
+{% highlight css %}
+#bg {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+#popup_div {
+    position: fixed;
+    z-index: 9999;
+    opacity: 1;
+    width: 70%;
+    height: 75%;
+    left: 15%;
+    top: 10%;
+    background-color: #fff;
+    color: #000;
+    border: 5px solid #ccc;
+}
+#popup_div .popup-div-content {
+    text-align: center;
+}
+{% endhighlight %} 
