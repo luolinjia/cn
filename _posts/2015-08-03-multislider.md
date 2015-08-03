@@ -4,7 +4,8 @@ title: 图片轮播
 categories:
 - Work
 tags:
-- jquery
+- jQuery
+- css3
 - 图片
 - 幻灯片
 ---
