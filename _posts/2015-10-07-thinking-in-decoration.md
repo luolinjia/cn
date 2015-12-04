@@ -22,7 +22,7 @@ tags:
 
 最后自己还是深陷简约风，不能自拔，类似于这种：  
 
-![](http://i1154.photobucket.com/albums/p531/luolinjia/middle_600x400-131712_v2_11381444281432318_33105f1eab7a9abcc618659b6ac752a1_zpspuie1dj1.jpg)
+![](http://i1154.photobucket.com/albums/p531/luolinjia/middle_769x585-131711_v2_12261444281431185_994cc910c6a35aaabc8c55dd0958c616_zpsl9omstsn.jpg)
 
 ![](http://i1154.photobucket.com/albums/p531/luolinjia/middle_600x400-131712_v2_11381444281432318_33105f1eab7a9abcc618659b6ac752a1_zpspuie1dj1.jpg)  
 p.s.图片均来源于网上，如有侵权，立即删除  
