@@ -4,9 +4,7 @@ title: Be steadfast at 30
 categories:
 - Life
 tags:
-- 重庆
-- 爱
-- 幸福
+- 立
 ---
 
 从去年开始，我就已经习惯说一句口头禅：『Don't worry! Be Happy!』。  
