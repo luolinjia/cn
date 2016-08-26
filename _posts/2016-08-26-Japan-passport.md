@@ -13,10 +13,10 @@ tags:
 
 去国外，尤其是发达国家，护照、签证是避免不了的。查询相关资料，最靠谱的就是相关国家的领事馆：  
 
-![日本国驻重庆总领事馆](http://www.chongqing.cn.emb-japan.go.jp/)  
+[日本国驻重庆总领事馆](http://www.chongqing.cn.emb-japan.go.jp/)  
 
 > 由于签证申请数量增长迅速，为避免我馆领事·签证大厅的混乱，本馆决定从<span style="color:red;">2009年12月21日</span>起，所有的签证申请必须通过本馆指定的<span style="color:red;">代办机构</span>申请，并且申请者本人须亲自到本馆指定的代办机构申请签证，请各位注意。  
-> 代办机构，一般就是指旅行社：![代办机构链接](http://www.chongqing.cn.emb-japan.go.jp/Chinese%20pages/qianzheng/tuanti_guanguang_shuoming.htm)  
+> 代办机构，一般就是指旅行社：[代办机构链接](http://www.chongqing.cn.emb-japan.go.jp/Chinese%20pages/qianzheng/tuanti_guanguang_shuoming.htm)  
 
 日本的签证有很多种，这里主要说明一下我办理的**个人旅游签证**，需要准备以下材料：  
 
