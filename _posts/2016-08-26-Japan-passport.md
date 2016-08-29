@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 日本个人旅行签证攻略（重庆地区2016年）
+title: 日本个人旅行签证（重庆地区2016年）
 categories:
 - Life
 - Travel
