@@ -38,4 +38,6 @@ tags:
 
 10天后，收到了旅行社发来的日本签证：  
 ![Karl Luo](/medias/img/luolinjia.jpg)  
-![Bessie Xia](/medias/img/xiaxisha.jpg)  
+![Bessie Xia](/medias/img/xiaxisha.jpg)
+
+> Tip: 记得回国后要**消签**！！！（西南片区是这样规定的，当然也要看旅行社，我们找的旅行社是需要消签的）
