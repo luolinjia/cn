@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 关西行
+title: 关西自由行
 categories:
 - Life
 - Travel
