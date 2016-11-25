@@ -8,7 +8,7 @@ tags:
 - NodeMailer
 ---
 
-> nodemailer 小程序  
+> GitHub link: <https://github.com/luolinjia/batchMail>  
 
 我们自己在测试nodemailer的时候，只需要如下简单的配置即可：  
 
