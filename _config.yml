@@ -3,4 +3,5 @@ permalink: /:year/:month/:title/
 url: http://luolinjia.com/cn
 author: 骆林佳
 lsi: false
-pygments: rouge
+pygments: true
+highlighter: rouge
