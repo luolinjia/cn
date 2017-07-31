@@ -6,7 +6,7 @@ comments: yes
 
 # 我是？
 
-![](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/snow_zps8811b81c.png)
+![](/medias/img/snow_about.jpg)
 
 终于，这里再无程序员的痕迹。
 
