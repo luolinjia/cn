@@ -6,7 +6,7 @@ comments: yes
 
 # 我是？
 
-![](/medias/img/snow_about.jpg)
+![](/medias/img/snow_about.png)
 
 终于，这里再无程序员的痕迹。
 
