@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 『富兰克林传』
-logo: http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/franklin_zps3ftxd3ib.jpg
+logo: http://y.photo.qq.com/img?s=hAWXCdTSC&l=y.jpg
 categories:
 - Book
 tags:
