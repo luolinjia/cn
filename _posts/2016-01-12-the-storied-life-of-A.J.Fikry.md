@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 『岛上书店』
-logo: http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/IMG_20160112_zpsppbfzujc.jpg
+logo: http://y.photo.qq.com/img?s=kg4npvGpZ&l=y.jpg
 categories:
 - Life
 - Book

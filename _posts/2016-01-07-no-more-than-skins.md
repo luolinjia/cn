@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 『皮囊』
-logo: http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/nomorethanskins_zpstb604kld.jpg
+logo: http://y.photo.qq.com/img?s=ueGRNL3yZ&l=y.jpg
 categories:
 - Life
 - Book

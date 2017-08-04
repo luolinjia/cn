@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 『水知道答案』
-logo: http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/en041109046_zpss4ztisth.jpg
+logo: http://y.photo.qq.com/img?s=ApLEBhFSN&l=y.jpg
 categories:
 - Life
 - Emotion
