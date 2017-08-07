@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 装修記之装修公司
-logo: http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/logo_zps0nz3pfja.png
 categories:
 - Life
 tags:

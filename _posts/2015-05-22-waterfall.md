@@ -15,7 +15,7 @@ tags:
 
 其实整个图片瀑布流的实现原理比较简单，只要了解了整个流程即可。
 
-![](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/0522-2015_zpsvmuiw8az.png)  
+![](http://y.photo.qq.com/img?s=CCzYPeQQA&l=y.jpg)
 
 根据上图，能够看出一个基本的瀑布流原理： 先放好第一排的图片，然后计算第一排图片的innerHeight，也就是高度值，找出高度值最小的，把下一张图片（这里是图片4）放到高度最小值的下面，后面的图片循环依此类推。
 
@@ -29,7 +29,7 @@ tags:
 
 ## 一种新的解决思路  
 
-![](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/0522-2015-2_zpsefmuleqd.png)  
+![](http://y.photo.qq.com/img?s=HA6BA98q4&l=y.jpg)
 
 首先，根据插件可以预知具体的列数，那么就生成对应的几个容器DIV（float: left;），这样的好处：  
 

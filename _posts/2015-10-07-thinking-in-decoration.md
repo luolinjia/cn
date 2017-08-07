@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 装修記之思考
-logo: http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/logo_zps0nz3pfja.png
 categories:
 - Life
 tags:
@@ -22,9 +21,9 @@ tags:
 
 最后自己还是深陷简约风，不能自拔，类似于这种：  
 
-![](http://i1154.photobucket.com/albums/p531/luolinjia/middle_769x585-131711_v2_12261444281431185_994cc910c6a35aaabc8c55dd0958c616_zpsl9omstsn.jpg)
+![](http://y.photo.qq.com/img?s=u6nOS31ZR&l=y.jpg)
 
-![](http://i1154.photobucket.com/albums/p531/luolinjia/middle_600x400-131712_v2_11381444281432318_33105f1eab7a9abcc618659b6ac752a1_zpspuie1dj1.jpg)  
+![](http://y.photo.qq.com/img?s=PDBVqabMd&l=y.jpg)
 p.s.图片均来源于网上，如有侵权，立即删除  
 
 当然，网上的设计只能是作为一种参考，不一样的地方还需要稍微灵活处理。  

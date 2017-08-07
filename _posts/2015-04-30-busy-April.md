@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 4月繁忙季
-logo: http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/20150430_zpsebhvnnxp.jpg
 categories:
 - Life
 - Work
