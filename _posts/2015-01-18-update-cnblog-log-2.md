@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 博客更新日志(v3.3)
-logo: http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/title_zps31f49f82.png
 categories:
 - Study
 tags:
@@ -31,10 +30,10 @@ tags:
 
 
 正常 PC 下主页:  
-![](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/20150118_2_zpsac77f2ac.jpg)  
+![](http://y.photo.qq.com/img?s=tn65bPqBo&l=y.jpg)
 
 移动设备端主页:  
-![](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/20150118_1_zps47c8429e.jpg)  
+![](http://y.photo.qq.com/img?s=9yBuShtty&l=y.jpg)
 
 
 ## 移动设备下，文章列表页和文章页  
@@ -46,7 +45,7 @@ tags:
   - 导航菜单靠左放置，并把图标变大，为25px
   - 文章列表年份小方块调整为2em，具体文章列表字号调整为20px，间距调整为2em，做这样的调整，主要还是考虑用户体验，为了能够让我们的手可以轻松触发。
   
-![](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/20150118_3_zps6a4d811c.jpg)  
+![](http://y.photo.qq.com/img?s=R9HZZY1Ym&l=y.jpg)
 
 - 文章页
   - 文章 Logo 置于文章顶部
@@ -54,17 +53,17 @@ tags:
   - 字号调整大，图片100%宽度显式。  
 
 PC上文章页:  
-![](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/20150118_4_zpsefa260d2.jpg)  
+![](http://y.photo.qq.com/img?s=3fOituA3I&l=y.jpg)
 
 移动端文章页:  
-![](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/20150118_5_zps866bd492.jpg)  
+![](http://y.photo.qq.com/img?s=iETn8JbJ0&l=y.jpg)
 
 移动端文章浏览页:  
-![](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/20150118_6_zps693c50ea.jpg)  
+![](http://y.photo.qq.com/img?s=DvIioWy7q&l=y.jpg)
 
 
 ## 标签页  
 
 之前所有的文章都会在标签页加载出来，我这里更改为按需求加载标签，使之更加人性化。再也不用在标签页跳过去跳过来了，因为现在只会显式你点击标签的文章列表。（目前就是在移动设备上，还有点体验不佳的情形，待稍后更新。）  
 
-![](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/20150118_7_zpsc9bde95e.jpg) 
+![](http://y.photo.qq.com/img?s=DyF38rpY3&l=y.jpg)
