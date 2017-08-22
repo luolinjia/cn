@@ -26,15 +26,15 @@ tags:
 
 大西北，陌生。估计就是荒北吧。
 
-![No](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/xiAn/1_zps427ca048.jpg)
+![No](https://ws4.sinaimg.cn/large/006tKfTcly1fisib63uwvj30im0dzjtf.jpg)
 
 第一天：头天晚上的火车，我们顺顺利利地到达了西安，原来西安的火车站也是那样地有古味，对面一个城墙拱桥。火车上睡了一晚上，精神头还是挺足的，就忙着找吃的，来到了对面的FKC，喝了一杯热牛奶，其它的都太贵了，没吃，他们倒是吃得乐乎。本来说好由我们一个同学的同学帮我们游览西安这个城市，也许那位同学临时有事吧，所以由此拉开我们自己游览的序幕。
 
-![No](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/xiAn/2_zps7a96b0a4.jpg)
+![No](https://ws4.sinaimg.cn/large/006tKfTcly1fisibb7o9zj30im0dzn00.jpg)
 
 出KFC的门，随便买了一张地图，就忙乎着看起来了，大家伙一起商量，西安不就是这几个景点么：大雁塔、小雁塔、钟楼、音乐广场、城墙、历史博物馆。由于城墙就在火车站附近，所以我们就开始了城墙之旅。
 
-![No](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/xiAn/3_zpsc2878e49.jpg)
+![No](https://ws1.sinaimg.cn/large/006tKfTcly1fisibjh5qrj30im0dz76f.jpg)
 
 西安城墙位于西安市中心区，是明代初年在唐长安城的皇城基础上建筑起来的，呈长方形，墙高12米，底宽18米，顶宽15米，东墙长2590米，西墙长2631.2米，南墙长3441.6米，北墙长3241米，总周长13.74 公里。有城门四座：东长乐门，西安定门，南永宁门，北安远门，每个城门都由箭楼和城楼组成。现存城墙建于明洪武七年到十一年(1374-1378)，至今已有600多年历史，是中世纪后期中国历史上最著名的城垣建筑之一，是中国现存最完整的一座古代城垣建筑。
 
@@ -45,19 +45,19 @@ tags:
 今年五一，上城墙的人特多，能感受到大大小小的旅游团急急忙忙地走过，其实跟旅游团也还是有好处，能更好地了解古城墙的历史故事，但旅游团都太匆忙了，旅游不自由，也是我们不愿意的。
 
 
-![No](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/xiAn/4_zps3574b68d.jpg)
+![No](https://ws3.sinaimg.cn/large/006tKfTcly1fisibphaqdj30im0dzjtw.jpg)
 
 应该是在建国门附近，看着仿古的建筑群，有种说不出的时过境迁之感，仿佛历史被我们遗忘在一个角落，但当这个角落逐渐出现在我们的视野，那又是何等的壮观，也许西安就是这样一座城市，讲究的是一种韵味，不是说这边的美女也是这样么。
 
-![No](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/xiAn/5_zpse2a1e77d.jpg)
+![No](https://ws3.sinaimg.cn/large/006tKfTcly1fisibtfsanj30im0dzq84.jpg)
 
 下了南门，也就是永宁门，这会也就快中午了，肚子饿了，赶紧找点吃的吧，所以我们就走到钟楼附近吃当地的小吃。
 
-![No](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/xiAn/6_zps3a0e8f82.jpg)
+![No](https://ws1.sinaimg.cn/large/006tKfTcly1fisibzpbvtj30im0dzwh9.jpg)
 
 不过这个也太难吃了，虽然说是这里的特色，但真的很不好吃，馍小小的，淡淡的，入口即化，但是却几乎没有味道，基本的咸味也闪了，看见肉了吧，肉还比较嫩，加上辣椒酱，能简单的入口，传说中的羊肉泡馍看来真不适合我。出了餐馆，计划下一站。
 
-![No](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/xiAn/7_zpsc2d4b236.jpg)
+![No](https://ws2.sinaimg.cn/large/006tKfTcly1fisic0u58fj30im0dzq84.jpg)
 
 本来说要去钟楼的，结果由于时间关系，还有进去的价值也不大，所以就放弃了钟楼之行。但还是留个影在这里。
 
@@ -65,14 +65,14 @@ tags:
 这时也快下午一点了，所以我们坐着游-7公交车来到了小雁塔
 
 
-![No](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/xiAn/8_zpsb634febe.jpg)
+![No](https://ws4.sinaimg.cn/large/006tKfTcly1fisic78a6hj30im0dzgo6.jpg)
 
 小雁塔正式称谓应为“荐福寺佛塔”，位于陕西省西安市南门外的荐福寺内。属于保护比较好的著名唐代佛塔，是唐朝都城长安保留至今（西安）的两处重要建筑之一。小雁塔的塔形秀丽，被认为是唐代精美的佛教建筑艺术遗产。
       
 到了这里的大门，进门后保安说不能进，必须从博物馆大门进（西安小雁塔和西安博物馆都在一个地方，都在这个庙内），没办法，只得到博物馆大门领取门票进去。那我们现在就去感受一下吧
 
 
-![No](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/xiAn/9_zpsd30c9f27.jpg)
+![No](https://ws3.sinaimg.cn/large/006tKfTcly1fisicd0yk6j30im0dzwh8.jpg)
 
 这边是现代的建筑，那边是仿古的建筑，现代与古代的近距离碰撞，让小雁塔的存在显得是那样的别致。
 
@@ -80,15 +80,15 @@ tags:
 走进西安博物馆，里面来来往往的人，但都比较安静，选取几张罗列下来。
 
 
-![No](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/xiAn/10_zps53a681de.jpg)
+![No](https://ws4.sinaimg.cn/large/006tKfTcly1fisicfc3jqj30im0dzwh8.jpg)
 
-![No](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/xiAn/11_zpsca6ac92b.jpg)
+![No](https://ws4.sinaimg.cn/large/006tKfTcly1fisici86x3j30im0dz76h.jpg)
 
-![No](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/xiAn/12_zps2f6d7e1b.jpg)
+![No](https://ws1.sinaimg.cn/large/006tKfTcly1fisicndw9cj30im0dzmzb.jpg)
 
 那小雁塔到底什么样子呢
 
-![No](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/xiAn/13_zps0274e4a6.jpg)
+![No](https://ws1.sinaimg.cn/large/006tKfTcly1fisictf3y1j30go0m8tc1.jpg)
 
 在几次近代战争的摧残下，小雁塔有部分的损坏，尤其的塔顶，残缺不全，正是这份残缺，充满了历史的痕迹，让小雁塔更显特别。
 
@@ -96,7 +96,7 @@ tags:
 由于参观博物馆浪费了太多的时间，不过也挺随意的，不必那么匆忙，然后我们TAXI到了大雁塔，来到了今天的最后一站。
 
 
-![No](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/xiAn/14_zpsb2176f6b.jpg)
+![No](https://ws2.sinaimg.cn/large/006tKfTcly1fisicvbegsj30go0m8q62.jpg)
 
 大雁塔又名大慈恩寺塔，位于中国陕西省西安市南郊大慈恩寺内。因坐落在慈恩寺西院内，大雁塔原称慈恩寺西院浮屠（浮屠即塔的意思）。是中国唐朝佛教建筑艺术杰作。           
 　　
@@ -107,15 +107,15 @@ tags:
       
 说实话感觉并不是那样深，感觉自己来过这里，小学时课本的大雁塔我终于来过了，也许就是这种感觉。在这里印象最深的莫过在大雁塔内俯瞰西安这个城市，能望得那么远。
 
-![No](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/xiAn/15_zps0555f4e6.jpg)
+![No](https://ws1.sinaimg.cn/large/006tKfTcly1fisid0xs8ej30im0dzq5h.jpg)
 
 原来西安就这么个样子，就这样真实地呈现在我眼前。就跟西安的人一样，不焦不躁，做什么事都慢半拍，去餐厅最能感受。很安详，很平淡。以前的古都长安估计就是这样吸引了不少海内外的游客或者就是因为这样吸引了很多人去那里定居，多数人有着相同的追求。大雁塔内部还是贴几张出来
 
-![No](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/xiAn/16_zps4874f5d8.jpg)
+![No](https://ws2.sinaimg.cn/large/006tKfTcly1fisid35xrij30im0dzq5h.jpg)
 
-![No](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/xiAn/17_zps35e4b2db.jpg)
+![No](https://ws2.sinaimg.cn/large/006tKfTcly1fisid5xhrij30im0dzq5h.jpg)
 
-![No](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/xiAn/18_zpsa819641e.jpg)
+![No](https://ws4.sinaimg.cn/large/006tKfTcly1fisid80ue5j30im0dzta9.jpg)
 
 出了大雁塔，我们围绕着大雁塔走了一圈，佛教的思想都是希望任何事团团圆圆，保平安。
 
@@ -125,13 +125,13 @@ tags:
 傍晚，有2个伙伴因为累了没去晚上的音乐喷泉，这可惜了，游览的第一天这个我觉得最有意思，在大雁塔的北面建立了现代化的音乐广场
 
 
-![No](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/xiAn/19_zps71bb457e.jpg)
+![No](https://ws2.sinaimg.cn/large/006tKfTcly1fisidcmzsgj30im0dz76s.jpg)
 
 白天的音乐喷泉就是这个样子，不过要晚上才可以真正体验这种感觉，就像这样
 
-![No](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/xiAn/20_zps0018e29a.jpg)
+![No](https://ws4.sinaimg.cn/large/006tKfTcly1fisidj93j4j30im0dzdi5.jpg)
 
-![No](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/xiAn/21_zpsc548669c.jpg)
+![No](https://ws2.sinaimg.cn/large/006tKfTcly1fisidlc8wwj30im0dzdi5.jpg)
 
 夜晚，喷泉在音乐的节奏下一起一伏，有规律地打着拍子，有调子地一上一下，整个夜晚寂静了，人们放慢甚至停下自己的脚步，广场周围黑压压的人群，都驻足欣赏这美妙的音乐喷泉，不时有人跳进水池，与喷泉嬉戏，与喷泉共舞，天空中荡漾着华尔兹的节拍，让人们共同记忆下这珍美的一刻。我受到了感染，心放开了去呼吸，发现，美总是停在那一瞬间，就像水，停在空中，那样的姿态真漂亮。
 
@@ -145,7 +145,7 @@ tags:
 华清宫，华清池的所在地，位于西安东约30公里的临潼骊山北麓，是中国著名的温泉胜地。据历史记载，这里的温泉大约发现在3000年前的西周时代。汉代曾在这里建造帝王贵族的行宫别墅。唐代建有富丽堂皇的“华清宫”。“华清池”由此得名。经历代战争，原来的建筑都已毁塌。现在的建筑都是按照历史记载的布局于1959年重建的。
 
 
-![No](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/xiAn/22_zps5e3d62bb.jpg)
+![No](https://ws3.sinaimg.cn/large/006tKfTcly1fisidrzcaej30im0dzacz.jpg)
 
 进入华清宫，并不是立马就能见到泡温泉的地方，温泉只在里面，不过外面的风景也还不错，虽然又感觉是在逛庙，审美疲劳了吧。
 
@@ -153,7 +153,7 @@ tags:
 值得说的是，这里有个“贵妃出浴”的典故，就是下面这个雕像所体现出来的
 
 
-![No](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/xiAn/23_zpsbcceb44b.jpg)
+![No](https://ws3.sinaimg.cn/large/006tKfTcly1fisidvze38j30im0dzgpa.jpg)
 
 在旁边的导游说了一句：“发现没有，古时候的女子腰是直的，不像现在的女子，腰大多是弯的，所以雕像刻得并不是很好。”
 
@@ -168,22 +168,22 @@ tags:
 到了秦陵兵马俑，从门外看没什么特殊的，就一座秦始皇的雕像，周围全是山和树林
 
 
-![No](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/xiAn/24_zpsb2d247d5.jpg)
+![No](https://ws3.sinaimg.cn/large/006tKfTcly1fisie0ze52j30go0m8diy.jpg)
 
 当真正进入俑坑的时候，你才发现原来历史就是历史，那种古老的沧桑，不变的魔法其实就藏在其中。当现代人走进历史，穿梭至古代，心里想到的又是怎样一种情怀。当看见这样庞大的工程的时候，你就会说，古老的中国原来是这样征服世界的，文化此时就是一种力量，一种内心坚韧、顽强、同时也是残酷、暴戾的最好呈现。下面看几个代表性的东西
 
-![No](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/xiAn/25_zpsaf5b2f52.jpg)
+![No](https://ws3.sinaimg.cn/large/006tKfTcly1fisie59qjxj30go0m8dip.jpg)
 
 铜马车的出土使世人耳目为之一新。其工艺之复杂，作之精巧，技艺之卓越无不令人惊叹，在旁边听到一个导游说，令人拍手叫绝的是这里所有的零部件全部是铸造成型。而这些零部件无论是大至2平方米以上的篷盖、伞盖及车舆、铜马、铜俑等，还是不足0.2平方米的小攸勒管都是一次铸造成型。就拿篷盖与伞盖的铸造来说，它不仅面积大，而且薄厚不一，厚的地方为0.4厘米，薄的地方仅有0.1厘米，再加上篷盖、伞盖，都有一定的弧度，这样难度大的篷盖、伞盖能一次性浇铸成功，不要说在2200年前的秦代，就是在科技发达、设备齐全的今天也并非易事。惊叹一下吧~~
 
 先来看一下1号坑：
 
 
-![No](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/xiAn/26_zps34aa68fc.jpg)
+![No](https://ws4.sinaimg.cn/large/006tKfTcly1fisie8n7bgj30im0dzacr.jpg)
 
-![No](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/xiAn/27_zpsd78213cb.jpg)
+![No](https://ws3.sinaimg.cn/large/006tKfTcly1fisiedlwegj30im0dz782.jpg)
 
-![No](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/xiAn/28_zpsa3510c1e.jpg)
+![No](https://ws3.sinaimg.cn/large/006tKfTcly1fisiefotwdj30im0dzq66.jpg)
 
 秦始皇一号俑坑，呈长方形，东西长230米，南北宽62米，深约5米，总面积14260平方米，四面有斜坡门道。俑坑中最多的是武士俑，身高1.7米左右，最高的1.9米。陶马高1.5米左右，身长2米左右，战车与实用车的大小一样。人、马车和军阵是通过写实手法的艺术再现。秦俑大部分手执青铜兵器，有弓、弩、箭镞、铍、矛、戈、殳、剑、弯刀和钺。青铜兵器因经过防锈处理，埋在地下两千多年，至今仍然光亮锋利如新，它们是当时的实战武器，身穿甲片细密的铠甲，胸前有彩线挽成的结穗。军吏头戴长冠，数量比武将多。秦俑的脸型、胖瘦、表情、眉毛、眼睛和年龄有差异（不仔细看是看不出来这样的差异）。
 
@@ -196,29 +196,29 @@ tags:
 从小就听说“华山论剑”，“沉香劈山救母”等等，现如今也来真正地感受一下。“云梯”“长空栈道”“鹞子翻身”等等也让我貌似去神游了一翻。多少次想来华山，但一直都没有机缘，而今天离华山越来越近，兴奋之情难以言表。本来计划晚上凌晨开始爬华山，但是由于昨天去临潼很累，所以昨天晚上我们都休息了。听一些爬过华山的人说要带足自己足够的水，一般的人带个3、4瓶就够了，山上的水少，并且一般的矿泉水能卖到10块钱一瓶，还要带上一个敢于冒险的心，心里素质过硬的才行。华山不仅雄伟奇险，而且山势峻峭，壁立千仞，群峰挺秀，以险峻称雄于世，自古以来就有"华山天下险"、"奇险天下第一山"的说法，所以要敢于去挑战。山底海拔300-400米，而华山的最高峰达到了2100多米，这个高度也是位列5岳之首。所以今天我要华山死在我脚下！死得心服口服！
 
 
-![No](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/xiAn/29_zps49a220d6.jpg)
+![No](https://ws4.sinaimg.cn/large/006tKfTcly1fisiei0rbxj30im0dzq66.jpg)
 
 （玉泉院）　　玉泉院为登临华山的门户。相传金仙公主在镇岳宫玉井中汲水洗头，不慎将玉簪掉入水中，却在返回玉泉院后，用泉水洗手时无意中找到了玉簪，方知此泉与玉井相同，于是赐名此泉为玉泉。玉泉院因此得名。
 
-![No](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/xiAn/30_zps26956553.jpg)
+![No](https://ws3.sinaimg.cn/large/006tKfTcly1fisiem2xwzj30im0dz41u.jpg)
 
-![No](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/xiAn/31_zps75e986e6.jpg)
+![No](https://ws3.sinaimg.cn/large/006tKfTcly1fisieqszkuj30go0m8jw1.jpg)
 
 终于到了自古华山一条道的起点了，山门上的“华山”好像在向我招手，此时的心情非常激动，但更多的是期待。
 
-![No](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/xiAn/32_zps67e0982a.jpg)
+![No](https://ws3.sinaimg.cn/large/006tKfTcly1fisiev9dbuj30im0dzn1s.jpg)
 
 通过网上查资料，说如何如何的险峻，看到这样平坦的小道，不觉让我感到一丝吃惊。
 
-![No](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/xiAn/33_zps8c97a9e5.jpg)
+![No](https://ws2.sinaimg.cn/large/006tKfTcly1fisif08ombj30im0dzwik.jpg)
 
 华山又名英雄山，有句话说：不到长城非好汉！但我觉得：不到华山非英雄！
 
-![No](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/xiAn/34_zpsc4f549d6.jpg)
+![No](https://ws1.sinaimg.cn/large/006tKfTcly1fisif2fcf7j30im0dzwik.jpg)
 
 我们在此处脱了鞋子，洗了脚，水温太凉了，像低温贮藏室
 
-![No](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/xiAn/35_zps0c1ddc5f.jpg)
+![No](https://ws4.sinaimg.cn/large/006tKfTcly1fisif9fxsxj30im0dzgqd.jpg)
 
 一路上泉水潺潺，清澈见底。找个地洗了个脸，一兴奋，大家伙说，我们去洗个脚，然后我们就3下5除2地脱得干干净净。脚一伸进水里，透心的凉，最多坚持不超过10秒钟就必须得提上脚来。不过这水真干净。自古华山一条道，这水会不会是一条呢。暂且不知。
 
@@ -227,23 +227,23 @@ tags:
 爬着爬着，路边有很多小店，都在招呼着游客买东西。心里想：幸好水带了3瓶，应该足够我喝吧。万一不够再说吧。反正“银两”还是带了的。这一段的路都相对比较平坦，顿时猛升玩性，拿着相机到处拍，走着走着，已经不觉来到了一座石门“五里关”
 
 
-![No](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/xiAn/36_zps380ffd6b.jpg)
+![No](https://ws2.sinaimg.cn/large/006tKfTcly1fisifcwov5j30im0dzgqd.jpg)
 
 五里关被称为“华山天险第一关”、“通天第一门”，是华山第一险关。一入关便可感觉到华山绝岭之风，其实到此才真正开始登华山的旅程。这个石门有没有一夫当关万夫莫开的架势。。还真难说。过了五里关，台阶慢慢变多了，但并不是很陡，虽然太阳大，但并是感觉很吃力。一路上碰到下山的游客，发现个有个共同特征，表情都比较严肃，几乎都没有笑容。这爬华山累得他们都不想爬山了吗？答案不晓。太阳这会也慢慢变强了，这不由得让我抽一口凉气！远看前方，孤峰突起、重峦叠嶂，连华山的主峰都看不到，我们只是在山底，还是先做好持久战的思想准备吧！
 
-![No](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/xiAn/37_zpsec7f735a.jpg)
+![No](https://ws3.sinaimg.cn/large/006tKfTcly1fisifgcwbyj30im0dzgpt.jpg)
 
 走到这里，大家伙们都已经累了，汗水毫不客气地滴下来，打在冒气的石板路上，我和一位同学走得较快，然后在此休息等另外两位。这儿休息的人挺多的，大家估计都疲倦了。这里也是华山的一个小站。
 
-![No](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/xiAn/38_zps94f23274.jpg)
+![No](https://ws1.sinaimg.cn/large/006tKfTcly1fisiflegftj30go0m844d.jpg)
 
-![No](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/xiAn/39_zps16fe5c4b.jpg)
+![No](https://ws2.sinaimg.cn/large/006tKfTcly1fisifp2s8fj30im0dzdjb.jpg)
 
 我们热得实在是受不了了，然后在这里休息了一小下，然后继续，到此估计走了1/7吧
 
 太阳正旺，晒得我们几个没了啥精神，稍微休息一下吧。
 
-![No](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/xiAn/40_zps81e7337f.jpg)
+![No](https://ws2.sinaimg.cn/large/006tKfTcly1fisifyr2hsj30go0m8wmz.jpg)
 
 此时已到了青柯坪，山路愈加不好走，台阶越来越多，基本上没有平路。遇到一大汉，身高体壮，正大口喘气四肢并用向上爬，样子甚是滑稽，全身衣服已经湿透，连裤子也被汗水沁湿半截。不由纳闷，这么强壮的身体，怎么爬起山来如此狼狈。
 
@@ -251,7 +251,7 @@ tags:
 一路小店还是比较多的，只不过价格越来越贵。幸好我的水都还没怎么喝，留着待会用，前面他们都喝了至少一瓶了。看来我比较有耐力唉。
 
 
-![No](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/xiAn/41_zps27001e94.jpg)
+![No](https://ws3.sinaimg.cn/large/006tKfTcly1fisig0pl0nj30im0dzq7f.jpg)
 
 山路愈加陡峭，有些地方有六，七十度，游人需手抓铁链才能安全上行。我自己都觉得有点开始害怕了，双手紧紧抓住铁链，一小步一小步往上爬。在爬会估计就能到传说中的“回心石”了。这个地方的照片后来才发现没有照下来，怎么会出现这种失误呢。（估计太陡了不敢把相机拿出来）。虽然没照回心石，但还是说说吧：
 　　
@@ -260,11 +260,11 @@ tags:
 我还是贴一张网上关于回心石的照片，供大家参考：
 
 
-![No](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/xiAn/42_zps9a755512.jpg)
+![No](https://ws2.sinaimg.cn/large/006tKfTcly1fisig26pdoj30im0dz434.jpg)
 
 过了回心石就是千尺幢，大家一阵兴奋，纷纷说赶紧拍照，因为马上就有人上来了。
 
-![No](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/xiAn/43_zps546d5f4c.jpg)
+![No](https://ws3.sinaimg.cn/large/006tKfTcly1fisig4g97rj30im0dzq7f.jpg)
 
 这里就是千尺幢，千尺幢号称华山山路上的第一险，其实就是极高极陡又极窄的台阶，两面是高耸的峭壁，往上看的时候有一线天的感觉（这种感觉没照出来），望下看就像个井。现在这里已经修了复道，分了上下行线，比较安全，一般不会有什么危险。听说以前经常有人从这里滚下去，一个人还好，如果路上人多，估计会全没命，幸运的也会摔成植物人。大家抓着铁链小心翼翼向上爬，回头一看，我的脚就像踩在下面人的头上，如果我这时用脚一踹，下面的人可能生还无望了，哈哈。同时这地方也有点一夫当关万夫莫开的感觉。要是有个人站在这里拿一把枪，估计没人能冲上来。
 
@@ -272,7 +272,7 @@ tags:
 走到这里，我才感觉到古人开山凿路的艰辛，华山的路都是我们的古人一下一下凿出来的。这里留下了多少人的智慧和汗水。从这里登上真的需要毅力和勇气。当年韩愈登上华山后惧险大哭，投书求救。如果换成今天，我看自己连哭的力气都没有了。更多的地方需要自己就亲自去体会。
 
 
-![No](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/xiAn/44_zpsf2a643a4.jpg)
+![No](https://ws2.sinaimg.cn/large/006tKfTcly1fisig8qd91j30go0m8grw.jpg)
 
 在这里看到了华山的西峰，还真巧，看来我的目标还很远啊。真像一块大石头被劈掉了一半。
 
@@ -284,22 +284,22 @@ tags:
 差不多在这里爬了10几分钟，我们翻过了老君犁沟，翻过后一片开阔，同时也一下火热，太阳当顶，是在是受不了了。在这里我和一位同学冒险翻到一块岩石上照相。
 
 
-![No](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/xiAn/45_zps4d0015ed.jpg)
+![No](https://ws1.sinaimg.cn/large/006tKfTcly1fisigkv0flj30go0m8wjo.jpg)
 
 这个时候也不顾什么形象了，照了再说，后面就是西峰，当时站在上面其实脚还是在发抖的，毕竟两边都是很高的悬崖，照完后不由心生畏惧，后背发凉。同时我也发几张网上搜索到的在此处照的经典照片，估计我是拍不出这样的效果。
 
-![No](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/xiAn/46_zps24e2574b.jpg)
+![No](https://ws1.sinaimg.cn/large/006tKfTcly1fisigqokj5j30go0m8wjo.jpg)
 
 此处就是北峰，爬上北峰后，视野一下就开阔了，北面的缆车还是忙碌地运送游客，南面仍能看见熙熙攘攘的游客在奋力爬索道，哎~~看我们爬上来了多闲惬。北峰上很多人，大多是从索道上来的，一脸的轻松和惬意，和我们狼狈不堪的样子成鲜明的对比。
 
-![No](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/xiAn/47_zps22f917e7.jpg)
+![No](https://ws3.sinaimg.cn/large/006tKfTcly1fisigt7vfej30g00m8tax.jpg)
 
 看见我背后一条很陡的索道了吗。那就是苍龙岭，是华山极佳处之一，其峻、奇、险曾令不少人流连忘返。
 
 在网上找到了一张拍得比较好的放上来给大家看看：
 
 
-![No](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/xiAn/48_zps45b8f153.jpg)
+![No](https://ws3.sinaimg.cn/large/006tKfTcly1fisigxqcc9j30g70lmq4e.jpg)
 
 看到这张，大家有没有信心挑战下？
 
@@ -315,14 +315,14 @@ tags:
       
 等我们爬上去了，我才大松一口气，终于快要结束了。华山沿途都有不少提示游客的小牌子写道，走路不看景，看景不走路，这个十分有必要，以前听说有很多人爬上华山后太兴奋忘我，边走边看景掉下悬崖的，估计这事轮不上我们了。呵呵~~~
 
-![No](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/xiAn/49_zps3d63c86f.jpg)
+![No](https://ws3.sinaimg.cn/large/006tKfTcly1fisih25rdij30im0dzn1u.jpg)
 
 
 上了苍龙岭，太阳也照不到我们了，凉凉的风，风不大，但稍有阴凉处，就有一股幽幽的清风吹过耳暇，真爽~
 
 在这里没有拍到很好的照片，在网上找了个拍得比较好的，如下：
 
-![No](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/xiAn/50_zps2907d8ac.jpg)
+![No](https://ws1.sinaimg.cn/large/006tKfTcly1fisih5wrm0j30im0dz41m.jpg)
 
 估计这个是在早晨拍的，我们到这里都已经是下午2点多将近3点，快爬了4个多小时了，这张照片能看见他们3个吃饭的地方（中间有蓝色的地方），真亲切。我还在那里买了一根5块钱的冰棍。
 
@@ -330,11 +330,11 @@ tags:
 不知不觉间我们来到了金锁岭，让人心生感叹。
 
 
-![No](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/xiAn/51_zps0d035047.jpg)
+![No](https://ws1.sinaimg.cn/large/006tKfTcly1fisihi9rt6j30im0dztc2.jpg)
 
 金锁关
 
-![No](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/xiAn/52_zps18f6fa98.jpg)
+![No](https://ws3.sinaimg.cn/large/006tKfTcly1fisihozmyyj30im0dztc2.jpg)
 
 金锁关是建在三峰口的一座城楼般石拱门，是经五云峰通往东西南峰的咽喉要道，锁关后则无路可通。杜甫《望岳》诗中“箭栝通天有一门”就是指的这里。道家认为，华岳为仙乡神府，只有过了通天门，才算进入仙境。所以有“过了金锁关，另是一重天的”的民谣。
 
@@ -347,18 +347,18 @@ tags:
 过了金锁关，另是一重天。这话说得好，翻过金锁关后，基本都没有很陡的道路，有的也只是一些小道，并且上面的路都没有了前面的险，有的只是韵味。
 
 
-![No](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/xiAn/53_zpsce2b2df2.jpg)
+![No](https://ws2.sinaimg.cn/large/006tKfTcly1fisihtrzpfj30im0dz43g.jpg)
 
 看，这位同学登上顶后的从容与潇洒，体力真好。顺着道走，我们来到了西岳华山的西峰，一来我就被这块石头吸引了。
 
-![No](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/xiAn/54_zpsf333cae6.jpg)
+![No](https://ws3.sinaimg.cn/large/006tKfTcly1fisihzk8ebj30im0dz43g.jpg)
 
 顺着道我们往上爬，没想到沉香劈山救母等故事我们就要相见了，真是一日不见如隔三秋，这话说得不对，应该是相恨见晚。
 
 西峰是华山主峰之一，因位置居西得名，又因峰巅有巨石形状好似莲花瓣，又名莲花峰。西峰为一块完整巨石，浑然天成，西北绝崖千丈，似刀削锯截，其陡峭巍峨、阳刚挺拔之势是华山山形之代表。西峰最著名的莫过于沉香劈山救母的故事了，看过《宝莲灯》的人都知道，沉香的母亲三圣母被压在华山之下，沉香为救母亲手持巨斧劈开华山，他所劈的便是西莲花峰，因此莲花峰上留有一个巨大的斧劈石，斧劈石在供奉着三圣母的道观边儿上，当真有一条平如刀削的大裂缝，真是鬼斧神工。
 
 
-![No](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/xiAn/55_zpsd26a0e14.jpg)
+![No](https://ws4.sinaimg.cn/large/006tKfTcly1fisii4eg4yj30go0m810u.jpg)
 
 当真正爬上西峰山顶的那一瞬间，第一个感受是风特大，耳边呼呼地响，刮得耳朵生疼，当真正站在西峰的峰顶上，瞭望远处的山景，整个世界原来就在我脚下，我才明白古人的登山情怀，原来这种感觉我也可以拥有。
 
@@ -376,11 +376,11 @@ tags:
 
 
 
-![No](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/xiAn/56_zps89053f1b.jpg)
+![No](https://ws4.sinaimg.cn/large/006tKfTcly1fisii6n3ftj30im0dzmz0.jpg)
 
 此时我们4个握着铁链，对这西峰山下大吼：“啊！！！！！！！！！！！！”。
 
-![No](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/xiAn/57_zpsae92aab4.jpg)
+![No](https://ws2.sinaimg.cn/large/006tKfTcly1fisii7rwz3j30im0dzdi9.jpg)
 
 像乌龟头吧，华山的西峰的确景色众多，没敢在上面站着，站着估计我双脚发软，毕竟头下面就是绝壁，真掉下去就能感受飞流直下三千尺的豪情，不过我可不拿生命开玩笑。
 
@@ -392,35 +392,35 @@ tags:
 西峰来到南峰就将近花了我们1个多小时，大家走走停停，边看景边走，一路畅快。在路边，我们遇到了难得的景象：
 
 
-![No](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/xiAn/58_zps39c9626e.jpg)
+![No](https://ws4.sinaimg.cn/large/006tKfTcly1fisiiblveaj30go0m810u.jpg)
 
 看见没有，中间有一个小松鼠，我们照相声音都不敢放大，小小的眼睛，有点酷酷的头型都深刻地印在了我的脑海里，华山的山顶原来不细心发现是看不到这些景象的，过了金锁关的华山的确的另一重天，随处可见的柏林苍松，姿态各异，玲珑有致，不禁让人心生涟漪，感慨万千。
 
 
-![No](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/xiAn/59_zps3b9386fe.jpg)
+![No](https://ws1.sinaimg.cn/large/006tKfTcly1fisiiedqgpj30im0dzju9.jpg)
 
 闭着眼睛，掉下去了那种感觉太让人发麻了
 
 我们在千年苍松的旁边照下了这张难得的照片，千年苍松地处绝壁，不追究是如何生长上去，难得的是我们也可以在今天一睹它的风采，就犹如下图，人们在苍松的周围系上了自己的平安红带，紧紧地缠在古松上，化作华山对每个有心人最好的祝福，时时刻刻，相生相伴。这也许就是古松仍然屹立不倒的千百年来的古人精神。
 
 
-![No](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/xiAn/60_zpsb3463bf2.jpg)
+![No](https://ws1.sinaimg.cn/large/006tKfTcly1fisiignq8jj30im0dzjv2.jpg)
 
-![No](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/xiAn/61_zpsa7340523.jpg)
+![No](https://ws2.sinaimg.cn/large/006tKfTcly1fisiik7d31j30im0dzwi1.jpg)
 
 怎么也想不明白，那些南峰顶上的古松是怎么生存下来的，是经受住了大自然的考验吗？还是华山自古就是传奇仙境？搞不懂啊~~
 
 终于来到了南峰。南峰又名落雁峰，传说是因为回归大雁常在这里落下歇息。南峰海拔2160.5米，是华山最高主峰，也是五岳最高峰，古人尊称它是“华山元首”。峰顶最高处就是华山极顶，登山人都以能攀上绝顶而引以为豪。有炼丹炉、仰天池、华夏之根等景点。宋名相寇准在这里写下了“只有天在上，更无山与齐。举头红日近，俯首白云低”的脍炙人口的诗句，体验到了一览众山小的感觉。
 
-![No](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/xiAn/62_zps81c1eca8.jpg)
+![No](https://ws2.sinaimg.cn/large/006tKfTcly1fisiir3uslj30im0dzwhg.jpg)
 
 我终于登上了华山的山顶
 
-![No](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/xiAn/63_zps735182c3.jpg)
+![No](https://ws3.sinaimg.cn/large/006tKfTcly1fisiivmg11j30im0dzwhg.jpg)
 
 南峰上的雕像-《华夏之根》
 
-![No](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/xiAn/64_zps7af2757b.jpg)
+![No](https://ws1.sinaimg.cn/large/006tKfTcly1fisiixltidj30im0dzwhg.jpg)
 
 (华山牌旁边的许愿池)
 
@@ -440,7 +440,7 @@ tags:
        
 在走的中间，我拍到了华山下棋亭：
 
-![No](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/xiAn/65_zps1f2dcef4.jpg)
+![No](https://ws1.sinaimg.cn/large/006tKfTcly1fisij46mrwj30im0dz42g.jpg)
 
 这里有个故事：相传汉武帝时，卫叔卿修道于华山，武帝命使臣及其子度世到华山去召还，见叔卿与几个人博戏于石上，因而又名“博台”。又传说，赵匡胤为感谢华山道士指导，做官后来华山寻找此人。遇见道士陈抟，见有棋盘棋子放置于桌上，便打赌下棋，第一盘结束后，二人便来到此处继续下棋，两盘棋赵匡胤便输光了所带钱物，第三盘又把华山给输了，所以有“自古华山不纳粮，皇帝老子管不住”的说法。后来为纪念此事，后人就在这里建一铁亭。十年文革时期，铁亭被毁。1985年，在原处又建造一石亭，白石配绿树，更加美观。亭中有一石桌，桌上有当年赵匡胤与陈抟下棋时的残局，桌旁有四个石凳。
 
@@ -448,9 +448,9 @@ tags:
 可惜我没有时间了，还是赶紧点吧，不然就拍不到日落了。终于在太阳快要下山的那一刻，我赶上了，我真是感谢上苍为我停住了这摒住呼吸的一刻。
 
 
-![No](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/xiAn/66_zpsc0e2ea5d.jpg)
+![No](https://ws3.sinaimg.cn/large/006tKfTcly1fisij52op2j30im0dzjue.jpg)
 
-![No](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/xiAn/67_zpsb016601b.jpg)
+![No](https://ws4.sinaimg.cn/large/006tKfTcly1fisij9vwqzj30im0dzq5w.jpg)
 
 此时的太阳已经遮住了娇羞的面容，并不是芙蓉出水时的那般清爽与艳丽，它欲掩欲遮，烧红了半边的天空，让人浮想连篇，不禁用相机慢慢定格，希望留下它那无比美丽的身影，转身后即是一片红霞，我将如何独自思念这美丽的华山之景。真如古长安女子，韵味十足。天慢慢暗下来，落下了帷幕，原来我们是本次最后一场观众。
 
@@ -462,11 +462,11 @@ tags:
 我们来到中锋已快天黑了，中锋印象深刻的莫过那里有个道院，道院旁边有个古树，有个道士还在和另外一个游客述说着什么，想想如果是我在这道院，与世隔绝，岂不是坚持不到几天就让自己精神崩溃，算了，看来我没有修仙的福分，这辈子就做个凡夫俗子吧。
 
 
-![No](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/xiAn/68_zps96e7dfb9.jpg)
+![No](https://ws3.sinaimg.cn/large/006tKfTcly1fisijchy3hj30im0dzjtb.jpg)
 
 我们在峰顶留下的照片，可惜当时没什么人，不能帮我们4个人合照，只有我不照咯。呵呵。
 
-![No](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/xiAn/69_zpsc88a54f3.jpg)
+![No](https://ws2.sinaimg.cn/large/006tKfTcly1fisijkirmbj30go0m877e.jpg)
 
 这就是我说的那颗古树，虽不大，但在中锋上鹤立独群，显得是那样的与众不同，别具一格。看见了它想到了许许多多，许多的人也许也跟这颗古树一样，孤独寂寞，忍受着每日的风吹日晒，即使被环境折磨得体无完肤，但仍然坚持生长在华山的山顶上，这样的古树精神也许值得我们去学习。
 
@@ -479,11 +479,11 @@ tags:
 差不多华山之行就该画上一个圆满的句号，但由于时间实在有限，很多经典的地方都没能去成，比如“华山论剑”“长空栈道”。这些经典的场景看来只有以后如果有机会再去，我也从网上找到了这些地方的图片，供大家欣赏。现在就贴出来：
 
 
-![No](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/xiAn/70_zps299b7e66.jpg)
+![No](https://ws3.sinaimg.cn/large/006tKfTcly1fisijpm4ewj30im0dzdh6.jpg)
 
-![No](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/xiAn/71_zpsf33eeca4.jpg)
+![No](https://ws2.sinaimg.cn/large/006tKfTcly1fisijrz0m0j30im0dzdh6.jpg)
 
-![No](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/xiAn/72_zps77f34d43.jpg)
+![No](https://ws1.sinaimg.cn/large/006tKfTcly1fisiju3c8lj30im0dzjta.jpg)
 
 
 今年的五一无疑是最累的一个五一，不过一路过来，真的让人成长不少，感受不少，成熟不少。事事的不争也许就体现在这样让自己不断满足的努力上。为了给自己一个圆满的回忆，写了这样一篇日志。华山的感受最深，无疑成为了我最美好的一段回忆。真的感觉不枉此行。就这样作个结吧~~~

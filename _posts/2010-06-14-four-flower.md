@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 四叶草
-logo: http://i.imgur.com/5uwdj.jpg
 categories:
 - Emotion
 - Life

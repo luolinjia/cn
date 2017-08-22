@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 风景
-logo: http://i.imgur.com/w28AJ.jpg
 categories:
 - Emotion
 tags:
