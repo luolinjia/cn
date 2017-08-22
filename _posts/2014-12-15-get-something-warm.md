@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 获得温暖
-logo: http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/7B4CD5677EC1_zpscdbb20e1.jpg
+logo: https://ws1.sinaimg.cn/large/006tNc79ly1fis90599ehj30e60e5qbi.jpg
 categories:
 - Life
 - Work
