@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 博客更新日志(v3.2)
-logo: http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/title_zps31f49f82.png
+logo: https://ws3.sinaimg.cn/large/006tKfTcly1fisa6qzn9xj304l02s0sj.jpg
 categories:
 - Life
 - Study
@@ -18,7 +18,7 @@ tags:
 - 在首页增加了英文博客的链接  
 
 ---  
-![功能1](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/fun1_zps4f805352.jpg)  
+![功能1](https://ws4.sinaimg.cn/large/006tKfTcly1fisa6thulrj30b80h2dkx.jpg)  
 
 一个是主页的小方块不再孤单了，除了之前小方块周围会发光之外，本次大胆使用缘边羽化150px的图片，配合小方块，能更好地说明这两个东西是一个整体，通过图片，也让来访者更好地体会我想用文字表达的意思。并且在文字的显示上，我这里做了一些处理，本来文字和图片可以一同被PS进一张图片，这样使得图片更像是一个整体，不过这样有两个问题：   
 > 1.如果图片一旦被放大，文字不可避免地出现失帧。  
@@ -27,7 +27,7 @@ tags:
 所以在这里，我就首先让图片先加载好，图片显示好之后，再加载文字，这样会有一个让来访者感觉故事是层层叠进的，而不是单调和没有生气的。  
 
 ---  
-![功能2](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/fun2_zps7bfb978d.jpg)  
+![功能2](https://ws3.sinaimg.cn/large/006tKfTcly1fisa6vg35mj30ka0h3js9.jpg)  
 
 其次是增加文章列表的收起和展开功能：  
 
@@ -40,7 +40,7 @@ tags:
 > 3.最猛的一点，它的体验性相比之前提升了何止一个档次。  
 
 ---  
-![功能3](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/fun3_zps3f025b1d.jpg)  
+![功能3](https://ws1.sinaimg.cn/large/006tKfTcly1fisa6wm7k3j30au03yjr9.jpg)  
 
 最后就是英语博客链接的增加：（最后一个小方块）  
 

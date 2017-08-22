@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 解忧杂货店（解憂雜貨店）
-logo: http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/jyzhd_zpse371db47.jpg
+logo: https://ws4.sinaimg.cn/large/006tKfTcly1fisa6ksoovj30970b474s.jpg
 categories:
 - Book
 tags:

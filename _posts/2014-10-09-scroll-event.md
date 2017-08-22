@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 滚动条事件（向上和向下）
-logo: http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/scroll_zps1b718c07.jpg
+logo: https://ws3.sinaimg.cn/large/006tKfTcly1fisa5hy6cfj30dw08cjrn.jpg
 categories:
 - Study
 - 前端

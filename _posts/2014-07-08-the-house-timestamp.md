@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The house timestamp from 22 to 25!
-logo: http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/76656BBAD41B_zpsf6d668a9.jpg
+logo: https://ws3.sinaimg.cn/large/006tNc79ly1fisa3iyeesj30e60am0xk.jpg
 categories:
 - Emotion
 - Life

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 悟
-logo: http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/QQ56FE724720141013102223_zpsab9cfabc.jpg
+logo: https://ws1.sinaimg.cn/large/006tNc79ly1fisa4udex9j30k00qodlj.jpg
 categories:
 - Emotion
 - Life

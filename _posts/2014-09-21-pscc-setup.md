@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 在Mac OS下安装pscc(photoshop cc)
-logo: http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/photoshop_zpsc67cdf07.jpg
+logo: https://ws3.sinaimg.cn/large/006tNc79ly1fisa4w3llyj305k05k0sp.jpg
 categories:
 - Study
 - Data
@@ -29,6 +29,6 @@ ps：一定要注意，安装全过程一定要断网。
 
 点击“系统设置” => “安全和隐私” => 点开“锁”，选择“通用” => “允许从以下位置下载的应用程序” => “任何来源软件” => 关闭“锁”
 
-![Adobe](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/ScreenShot2014-09-21at83534PM_zps1e08167a.png)  
+![Adobe](https://ws4.sinaimg.cn/large/006tNc79ly1fisa535wuqj30n20ggapj.jpg)  
 
 操作完成后，再下载一次试试。

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 我的奶奶
-logo: http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/mygrandma_zps21f6d6b5.jpg
+logo: https://ws1.sinaimg.cn/large/006tKfTcly1fisa5h3caej30840aujs6.jpg
 categories:
 - Emotion
 - Life

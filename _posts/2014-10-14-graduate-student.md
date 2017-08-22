@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 学海无涯
-logo: http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/72725156-3_zpsba751b68.jpg
+logo: https://ws4.sinaimg.cn/large/006tKfTcly1fisa5j0z3oj30l40880t4.jpg
 categories:
 - Emotion
 - Life

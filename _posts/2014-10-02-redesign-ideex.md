@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 从心设计ideex
-logo: http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/title_zps31f49f82.png
+logo: https://ws3.sinaimg.cn/large/006tNc79ly1fisa54g4glj304l02s0sj.jpg
 categories:
 - Design
 tags:
@@ -21,7 +21,7 @@ tags:
 段落的文字配上一幅绝美的图片，能够让文章上升为艺术，不过个人感觉图片不宜喧宾夺主，一些微小的图片或者嵌入背景的淡色图片都是可以采用的。由于Jekyll里面用的是Markdown作解析，背景图片不宜采用，这里采用图片搭配文章。图片的位置，可以放在文章的最前端，其实Pages里面的这个模板就挺好的，尤其是颜色的搭配，最能说明一个网页设计者的挑剔眼光，我们可以从一个图片的选取和title的位置颜色来考量这些。之前网页的title很随意地摆放title跟content，现在看来只是对自己是一个不严格要求自己的理由。  
 
 e.g.  
-![Pages的模板](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/Snip20141001_1_zps96d48516.png)
+![Pages的模板](https://ws3.sinaimg.cn/large/006tNc79ly1fisa5ev7swj30sg0m1th3.jpg)
 
 # Slide  
 之前的slide做的样式还算是中规中矩吧，但是现在来看，还是太繁琐了，深受无印良品的影响，觉得**简洁**的，能够表达主题的样式还是最优秀的，尤其是在个人博客这种展现个人情怀的地方。Slide砍掉，替换成主题的样式图片。放在整篇文章的结尾左边，用随机数生成相应category的图片。所以这个想法先放这里，以后有时间再实现这个想法。     

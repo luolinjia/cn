@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 我的名字对你有何意义？
-logo: http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/7F89ED64680C_zps42d3d5ee.jpg
+logo: https://ws2.sinaimg.cn/large/006tNc79ly1fisa2b1ar4j30dw0gdgnu.jpg
 categories:
 - Emotion
 - Life

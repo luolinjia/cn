@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 更新状态
-logo: http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/7E7A9F11BD23_zps2ccd7e5b.jpg
+logo: https://ws3.sinaimg.cn/large/006tKfTcly1fisa6pu9cnj30sg0bnwn6.jpg
 categories:
 - Study
 - Life

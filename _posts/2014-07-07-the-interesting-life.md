@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The interesting life!
-logo: http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/71D384515450_zps2831d323.jpg
+logo: https://ws2.sinaimg.cn/large/006tNc79ly1fisa36n3asj30e60e6gw1.jpg
 categories:
 - Emotion
 - Life

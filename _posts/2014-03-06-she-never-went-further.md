@@ -1,7 +1,7 @@
 ---
 layout: post
 title: U Went Away?
-logo: http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/73A995F72785_zps05301d04.jpg
+logo: https://ws1.sinaimg.cn/large/006tNc79ly1fisa2l9o7sj30dw0dwwgm.jpg
 categories:
 - Emotion
 - Life

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 乡归何处
-logo: http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/7D27E5A329AD_zps3421c0e1.jpg
+logo: https://ws2.sinaimg.cn/large/006tKfTcly1fisa701b1rj30b80h2dkx.jpg
 categories:
 - Life
 tags:

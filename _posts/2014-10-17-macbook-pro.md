@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MBP
-logo: http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/Snip20141017_1_zps913a530c.png
+logo: https://ws3.sinaimg.cn/large/006tKfTcly1fisa6avukvj30lc0sggqx.jpg
 categories:
 - Life
 tags:
@@ -21,4 +21,4 @@ tags:
 - 触摸板：好吧，这是我用过的最好的，没有之一。  
 
 晒图一张：   
-![MacBook Pro](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/1017_1_zps6c3f475c.jpg)
+![MacBook Pro](https://ws2.sinaimg.cn/large/006tKfTcly1fisa6hev58j30rm0hujv8.jpg)

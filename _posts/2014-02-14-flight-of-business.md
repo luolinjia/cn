@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 忆第一次坐商务舱
-logo: http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/201202290417096676_zpse0802dbe.jpg
+logo: https://ws1.sinaimg.cn/large/006tNc79ly1fisa229hsqj30sg0iymym.jpg
 categories:
 - Emotion
 - Life
