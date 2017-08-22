@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 最近电波
-logo: http://i.imgur.com/wQzQN.jpg
 categories:
 - News
 - Emotion

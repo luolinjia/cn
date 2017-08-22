@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 听
-logo: http://i.imgur.com/rVef5.jpg
 categories:
 - Life
 - Emotion

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 先生
-logo: http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/20120606081524337872_zps3adf09bd.jpg
+logo: https://ws2.sinaimg.cn/large/006tKfTcly1fisgygta8hj30960bwmya.jpg
 categories:
 - Life
 - Emotion

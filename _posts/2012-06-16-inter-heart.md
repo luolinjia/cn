@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 心智成熟的旅程
-logo: http://i.imgur.com/Assf0.jpg
 categories:
 - Emotion
 tags:

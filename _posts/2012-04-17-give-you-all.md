@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 半段子
-logo: http://i.imgur.com/UepDr.jpg
 categories:
 - Emotion
 - Life

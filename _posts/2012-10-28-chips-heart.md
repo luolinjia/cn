@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 缺失的碎片
-logo: http://i.imgur.com/j0knC.jpg
 categories:
 - Life
 tags:

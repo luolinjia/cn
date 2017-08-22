@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 读《史蒂夫 乔布斯传》
-logo: http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/RIPSteveJobs_zps5eaf0d68.png
+logo: https://ws1.sinaimg.cn/large/006tKfTcly1fisgmwobyej30m80ezwj5.jpg
 categories:
 - Book
 tags:
