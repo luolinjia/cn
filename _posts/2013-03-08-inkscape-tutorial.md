@@ -44,7 +44,7 @@ Inkscape为每个文档打开一个独立的窗口。你可以用操作系统中
 
 下面我们开始创建一些很漂亮的图形！在工具列中选择矩形工具(Rectangle)(快捷键F4),在(本文档或新文档的)绘图区中点击、拖动：  
 
-![inkscape1](http://i.imgur.com/r9tU6wl.png)  
+![inkscape1](https://ws3.sinaimg.cn/large/006tKfTcly1fiscbwrqd5j30e602rjr5.jpg)  
 
 As you can see, default rectangles come up blue, with a black stroke (outline), and fully opaque. We'll see how to change that below. With other tools, you can also create ellipses, stars, and spirals:  
 
@@ -59,7 +59,7 @@ As you can see, default rectangles come up blue, with a black stroke (outline), 
 
 Inkscape中最常用的工具是拾取器(Selector)，位于工具列的顶端(箭头形状)，对应快捷键F1 或者 空格(Space)。现在你可以选择当前画布上的任何对象。请点击下面的矩形。  
 
-![inkscape3](http://i.imgur.com/VFxQhbL.png)  
+![inkscape3](https://ws1.sinaimg.cn/large/006tKfTcly1fisdygyqdfj302c0280aw.jpg)  
 
 可以看到，选择对象的周围出现八个带箭头的控制器。下面你可以：  
 
@@ -91,11 +91,11 @@ Inkscape区别于大多数其它矢量绘图软件的一个特征是键盘操作
 
 通过Shift+click，可以连续选择多个绘图对象，或者，用鼠标左键拖出一个框来选中框内所有对象，这个也称为弹性区选(rubberband selection)。(从空白处开始拖动时将创建弹性选区，如果在拖动之前先按下Shift，则总是创建弹性选区。) 请尝试选择下面的三个形状：  
 
-![inkscape4](http://i.imgur.com/00YpkW7.png)  
+![inkscape4](https://ws1.sinaimg.cn/large/006tKfTcly1fisdyigl2aj307b01yt8k.jpg)  
 
 你可以使用弹性选区选择下面两个椭圆，但不包括矩形：  
 
-![inkscape5](http://i.imgur.com/hdI0GNB.png)  
+![inkscape5](https://ws1.sinaimg.cn/large/006tKfTcly1fiscia2w77j308h02a743.jpg)  
 
 被选择的对象上会出现一个选择标识(selection cue)，默认情况下是一个虚线矩形框，它可以标识出哪些对象被选中，哪些没有选中。例如，同时选中两个椭圆和矩形时，如果没有矩形标识框，椭圆的选中与否就难以判断。  
 
@@ -108,7 +108,7 @@ Inkscape区别于大多数其它矢量绘图软件的一个特征是键盘操作
 
 若干个绘图对象可以组合为一个群组group。群组可以像普通绘图对象一样进行移动或变换。下图中，左边的三个图形是互相独立的，而右边的三个图形是组合在一起的。试着拖动这个群组看看。  
 
-![inkscape6](http://i.imgur.com/bbd5nWB.png)  
+![inkscape6](https://ws2.sinaimg.cn/large/006tKfTcly1fiscjdjretj30dy03njrg.jpg)  
 
 选择一个或多个对象后，按Ctrl+G可以将它们组合在一起。选中一个或多个群组后，按Ctrl+U可以解散组合。群组也可以再次组合，并且群组的嵌套层数没有限制。不过Ctrl+U只能打开最顶层的群组，对于嵌套群组需要多次Ctrl+U才能完全打散组合。  
 
@@ -121,7 +121,7 @@ Inkscape中的许多功能都借助于对话框的形式。为绘图添加一些
 
 更强大的工具是对象Object菜单中的填充与轮廓对话框 (或者按 Shift+Ctrl+F)。选中下面的形状，然后打开填充与轮廓对话框。  
 
-![inkscape7](http://i.imgur.com/YfAeZYB.png)  
+![inkscape7](https://ws4.sinaimg.cn/large/006tKfTcly1fisektkh7ej307g01wglf.jpg)  
 
 这个对话框中有三个标签面板：填充Fill、轮廓色彩(Stroke paint)和轮廓样式(Stroke style)。填充属性可以修改对象的内部fill 。下面的按钮可以设置填充的类型，包括不填充(图标X)，单色flat color填充，以及渐变(gradients,线性或圆周)填充。对于上面的椭圆，单色填充的按钮是激活的。  
 
@@ -133,7 +133,7 @@ Inkscape中的许多功能都借助于对话框的形式。为绘图添加一些
 
 在轮廓色彩Stroke paint标签中，可以删除轮廓线stroke，也可以任意为其指定颜色和透明度：  
 
-![inkscape9](http://i.imgur.com/ZJeZ6ck.png)  
+![inkscape9](https://ws4.sinaimg.cn/large/006tKfTcly1fise0nr5n2j30ec01xmx8.jpg)  
 
 最后一个标签面板，轮廓样式(Stroke style)中，可以设置轮廓的宽度以及其它参数：  
 
@@ -164,7 +164,7 @@ z-order指的是绘图中对象的叠放次序，例如，某个对象在最上�
 
 可以在下面的图形上练习改变叠放次序，让最左边的椭圆位于最上层，而最右边的椭圆位于最下层：  
 
-![inkscape13](http://i.imgur.com/Pta7Hhk.png)  
+![inkscape13](https://ws3.sinaimg.cn/large/006tKfTcly1fise2uhp45j307q02xq2w.jpg)  
 
 选择叠放的对象时，一个很方便的快捷键是Tab。如果没有选择任何对象，按Tab将会选择最底层的对象；有对象被选中时，将选择其上的对象。Shift+Tab的选择方向则相反，从最顶层开始，往底层逐次选择。默认的叠放次序与图形创建的次序是一样的，所以没有选择对象时，Shift+Tab总是选择刚创建的图形。在上面的叠放椭圆中可以练习一下Tab和Shift+Tab的选择。  
 
@@ -181,7 +181,7 @@ z-order指的是绘图中对象的叠放次序，例如，某个对象在最上�
 
 请用Alt+click和Alt+drag选择并拖动绿色透明矩形下的棕色形状：  
 
-![inkscape14](http://i.imgur.com/yublVvJ.png)  
+![inkscape14](https://ws2.sinaimg.cn/large/006tKfTcly1fisep3lc24j309k035jr9.jpg)  
 
 
 # 总结  

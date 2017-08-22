@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Java版iPhone批量推送
-logo: http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/7510EA6756ED_zpsa7b5f3cd.jpg
+logo: https://ws3.sinaimg.cn/large/006tKfTcly1fisaz8d1ncj30ku0geagk.jpg
 categories:
 - Study
 - Work
@@ -16,7 +16,7 @@ tags:
 
 iPhone推送基本原理流程圖  
 
-![iPhone Push](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/acd75433-36fc-3d47-92fa-a68f9ff19cf7_zps928c75b3.jpg)  
+![iPhone Push](https://ws3.sinaimg.cn/large/006tKfTcly1fisaz9tw9cj30cz0dwmxn.jpg)  
 
 從上圖我們可以看到。 
 

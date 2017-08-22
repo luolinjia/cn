@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 一个人的朝圣
-logo: http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/s26936721_zpse5051f50.jpg
+logo: https://ws1.sinaimg.cn/large/006tKfTcly1fisazyht07j308f0c6dfx.jpg
 categories:
 - Book
 - Emotion

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: IETLS Writing(1)之思考素材
-logo: http://i.imgur.com/7EwDlwb.jpg
 categories:
 - Book
 - English

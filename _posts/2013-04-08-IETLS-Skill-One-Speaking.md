@@ -1,7 +1,6 @@
 ---
 layout: post
 title: IETLS Speaking(1) 常用小词
-logo: http://i.imgur.com/cpee9te.jpg
 categories:
 - Book
 - English

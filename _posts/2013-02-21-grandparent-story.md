@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 我的爷爷
-logo: http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/20120921083339_3542_zps3d93b1c6.jpg
+logo: https://ws2.sinaimg.cn/large/006tKfTcly1fisaqviqfqj30ci08tglx.jpg
 categories:
 - Life
 - History

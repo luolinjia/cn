@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Jekyll新问题
-logo: http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/764397636140_zpsf772d32b.jpg
+logo: https://ws4.sinaimg.cn/large/006tKfTcly1fisazb8ozfj30cs09kjrd.jpg
 categories:
 - Study
 tags:

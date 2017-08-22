@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 行动起来吧，少年
-logo: http://i.imgur.com/7ryondB.jpg
 categories:
 - Book
 - Travel

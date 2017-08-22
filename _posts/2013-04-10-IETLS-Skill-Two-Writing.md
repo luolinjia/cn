@@ -1,7 +1,6 @@
 ---
 layout: post
 title: IETLS Writing(2) 基础句型
-logo: http://i.imgur.com/jjxI8wN.jpg
 categories:
 - Book
 - English

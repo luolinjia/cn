@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 探究历史的足迹
-logo: http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/1_zps2099cfac.jpg
+logo: https://ws3.sinaimg.cn/large/006tKfTcly1fisaypqepqj30ct08j3z9.jpg
 categories:
 - History
 - Life

@@ -17,14 +17,14 @@ tags:
 
 在官网创建一个新项目，如下图：  
 
-![](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/2_zps3bf64e71.png)  
+![](https://ws1.sinaimg.cn/large/006tKfTcly1fisd5sxhd3j30ke0cv74o.jpg)  
 
 
 # Step 2  
 
 然后按照创建新项目的步骤创立好，即分支为master，如下图：  
 
-![](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/3_zps1b1ff328.png)  
+![](https://ws1.sinaimg.cn/large/006tKfTcly1fisd5uhe1mj30c405xjrc.jpg)  
 
 # Step 3  
 
@@ -45,7 +45,7 @@ $ git push -u origin gh-pages
 
 如下图：  
 
-![](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/4_zpsf64678e9.png)  
+![](https://ws2.sinaimg.cn/large/006tKfTcly1fisd5z3a31j30ii0jxmyo.jpg)  
 
 
 # Step 4  

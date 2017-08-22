@@ -13,5 +13,5 @@ tags:
 
 Happyyyy new Yearrrr blessing myself AND love my friends.   
 
-![happiness](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/7629D9BF52B5_zpsc49b46d1.jpg)  
+![happiness](https://ws1.sinaimg.cn/large/006tKfTcly1fisd78v2ywj30i20ba419.jpg)  
 

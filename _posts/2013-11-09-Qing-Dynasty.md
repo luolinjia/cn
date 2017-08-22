@@ -46,5 +46,5 @@ tags:
 
 “**天朝**”是一个梦，一个难以惊醒的梦。  
 
-![Book](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/yapian_zpsf45c1ee7.png)  
+![Book](https://ws1.sinaimg.cn/large/006tKfTcly1fisd76pmwhj30m207y142.jpg)  
 （图片说明：鸦片战争后的香港）

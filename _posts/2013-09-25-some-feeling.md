@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 睡前星光
-logo: http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/713ED9B1F8B0_zps25ac9bfa.jpg
+logo: https://ws2.sinaimg.cn/large/006tKfTcly1fisazx4tbxj30dw099n0i.jpg
 categories:
 - Emotion
 - Life

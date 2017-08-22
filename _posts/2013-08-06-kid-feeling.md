@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 乡的味道
-logo: http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/70DEE762EAA3_zps08f59dc0.jpg
+logo: https://ws4.sinaimg.cn/large/006tKfTcly1fisazpggv3j30i20bvtdp.jpg
 categories:
 - Emotion
 - Life

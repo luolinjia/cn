@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 隋唐时光轴之隋朝(二)
-logo: http://i.imgur.com/j9QhQWy.jpg
 categories:
 - Book
 - History

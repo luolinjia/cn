@@ -18,73 +18,73 @@ tags:
 
 File -> New -> Other -> Maven Project  
 
-![1](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/pictures%20code/11_zps7fa72fc3.png)  
+![1](https://ws1.sinaimg.cn/large/006tKfTcly1fisd61qks9j30el0dwt9a.jpg)  
 
 ##step 2  
 
 Use default Workspace location 用默认的空间地址即可  
 
-![2](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/pictures%20code/12_zps8bf2c714.png)  
+![2](https://ws2.sinaimg.cn/large/006tKfTcly1fisd63qffgj30gp0f80t2.jpg)  
 
 ##step 3  
   
-![3](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/pictures%20code/13_zpsa97494c5.png)  
+![3](https://ws3.sinaimg.cn/large/006tKfTcly1fisd66958jj30f90dmwey.jpg)  
 
 
 ##step 4  
   
-![4](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/pictures%20code/14_zpsea258f1a.png)  
+![4](https://ws4.sinaimg.cn/large/006tKfTcly1fisd67l3x5j30ec0dd74l.jpg)  
 
 ##step 5  
 
 Finish -> 生成初始目录  
 
-![5](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/pictures%20code/15_zps9b8061f0.png)  
+![5](https://ws1.sinaimg.cn/large/006tKfTcly1fisd68gnk0j306j070weg.jpg)  
 
 ##step 6  
 
 配置项目的目录，我们得配置maven的标准目录  
 右键项目 -> New -> Source Folder  
 
-![6](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/pictures%20code/16_zps4c3c6bce.png)  
+![6](https://ws2.sinaimg.cn/large/006tKfTcly1fisd69lpuhj30di0bvdg1.jpg)  
 
 ##step 7  
 
 配置后的目录
 
-![7](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/pictures%20code/17_zpsf8b5388b.png)  
+![7](https://ws3.sinaimg.cn/large/006tKfTcly1fisd6bsp0gj3061094t8o.jpg)  
 
 ##step 8  
 
 右键项目 -> Properties -> Java Build Path -> Libraries  
 更改JDK支持为1.6  
 
-![8](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/pictures%20code/18_zps6fa0cb09.png)  
+![8](https://ws2.sinaimg.cn/large/006tKfTcly1fisd6e5f01j30jo0fawfa.jpg)  
 
 ##step 9  
 
 Java Compiler -> Compiler compliance level -> 1.6  
 
-![9](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/pictures%20code/19_zpsa871818d.png)  
+![9](https://ws3.sinaimg.cn/large/006tKfTcly1fisd6gsiggj30jp0fcab4.jpg)  
 
 ##step 10  
 
 Project Facets -> Convert to faceted form...  
 
-![10](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/pictures%20code/20_zpscbc3b7d3.png)  
+![10](https://ws2.sinaimg.cn/large/006tKfTcly1fisd6ib0qij30jp0f9q3j.jpg)  
 
 ##step 11  
 
 Project Facets -> Dynamic Web Module -> 2.4  
 注意这里勾上Dynamic Web Module 并在后面的版本选择2.4  
 
-![11](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/pictures%20code/21_zps8f7b87a0.png)  
+![11](https://ws1.sinaimg.cn/large/006tKfTcly1fisd6ne3gej30jq0fddh8.jpg)  
 
 ##step 12  
 
 配置好上面所有的东西后的目录，然后双击pom.xml  
 
-![12](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/pictures%20code/22_zpsac28dedd.png)  
+![12](https://ws1.sinaimg.cn/large/006tKfTcly1fisd6orl7xj306e0ckq2z.jpg)  
 
 ##step 13  
 
@@ -142,13 +142,13 @@ pom.xml 配置：
 右键项目 -> Properties -> Deployment Assembly  
 结果如下，我们需要将红色框内的干掉  
 
-![14](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/pictures%20code/23_zps8711e260.png)  
+![14](https://ws2.sinaimg.cn/large/006tKfTcly1fisd6rrrfrj30jc09oq3k.jpg)  
 
 ##step 15  
 
 干掉后，按照下图新增需要部署的文件夹和lib依赖（这里是Maven Dependencies）  
 
-![15](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/pictures%20code/24_zps7dee8d03.png)  
+![15](https://ws1.sinaimg.cn/large/006tKfTcly1fisd6tlxlwj30fy08kmxj.jpg)  
 
 ##step 16  
 
@@ -352,17 +352,17 @@ public class LoginController {
 
 所有的文件都准备完毕，编译打包到tomcat  
 
-![23](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/pictures%20code/25_zps324c9b70.png)  
+![23](https://ws3.sinaimg.cn/large/006tKfTcly1fisd6uzo6cj30kf0c0gmc.jpg)  
 
 ##step 24  
 
 效果图1：  
 
-![24](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/pictures%20code/26_zps939dbb35.png)  
+![24](https://ws2.sinaimg.cn/large/006tKfTcly1fisd6wapbzj30ap02r0so.jpg)  
 
 效果图2：  
 
-![25](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/pictures%20code/27_zps2196e885.png)  
+![25](https://ws3.sinaimg.cn/large/006tKfTcly1fisd6x7e7rj30f903emxe.jpg)  
 
 ##总结  
 

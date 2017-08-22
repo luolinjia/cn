@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 三贱客
-logo: http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/73F4D7C7641F_zps4a507f7b.jpg
+logo: https://ws4.sinaimg.cn/large/006tKfTcly1fisazrhymhj30dw099di9.jpg
 categories:
 - Emotion
 - Life

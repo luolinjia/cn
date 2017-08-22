@@ -1,7 +1,6 @@
 ---
 layout: post
 title: IETLS Writing(3)之关系连词
-logo: http://i.imgur.com/cbCkT9k.jpg
 categories:
 - Book
 - English

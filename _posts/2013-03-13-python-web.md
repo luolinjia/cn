@@ -24,7 +24,7 @@ web.py 一个轻量级python web框架，通过python搭建一个服务，并且
 
 将code.py示例放置的位置如下：  
 
-![0.png](http://i.imgur.com/ga6sXwM.png)  
+![0.png](https://ws3.sinaimg.cn/large/006tKfTcly1fiscx2ssu9j30hx03n74a.jpg)  
 
 紧接着是code.py源码:  
 
@@ -52,7 +52,7 @@ if __name__ == "__main__":
 
 这就是一个最简单的也是完整的web.py应用，在终端用python运行code.py文件，即可看到如下，说明服务已经启动好：  
 
-![1.png](http://i.imgur.com/FQwH7Si.png)  
+![1.png](https://ws3.sinaimg.cn/large/006tKfTcly1fiscy5bym6j30cl012web.jpg)  
 
 然后在浏览器地址栏输入http://localhost:8080/luolijia，在控制台可以看到Hello，luolinjia。说明一个简单的web.py应用已经成功。  
 
@@ -129,7 +129,7 @@ Launching server: http://0.0.0.0:8080/
 
 > ps:这里要注意，如果按照示例上web.run(urls,globals())来进行输出会存在问题，会报如下错误：  
 
-![3.png](http://i.imgur.com/PXWqYOp.png)
+![3.png](https://ws3.sinaimg.cn/large/006tKfTcly1fisfhlwqgaj30fn02naa2.jpg)
 
 
 那么这里需要小小地更正一下，改成下面这样的代码即可：  
