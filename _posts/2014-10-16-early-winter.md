@@ -8,7 +8,7 @@ tags:
 - 冬
 ---
 
-![](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/Snip20141016_1_zpsb865da6e.jpg)
+![](https://ws1.sinaimg.cn/large/006tKfTcly1fitkf3qvedj30sg0izacr.jpg)
 
 > 还似昨天的上海  
 > 却相遥千里  

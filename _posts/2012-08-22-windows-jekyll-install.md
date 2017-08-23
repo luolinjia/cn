@@ -27,7 +27,7 @@ ruby dk\.rb install
 
 ![](http://i.imgur.com/JGiOB.jpg)  
 
-![](http://i.imgur.com/uncjK.png)  
+![](https://ws3.sinaimg.cn/large/006tKfTcly1fitjh942ogj30eq057745.jpg)  
 
 # Step3  
 
@@ -48,7 +48,7 @@ ps:此处一定要耐心等待，不要看没有任何反应不耐心就关掉cm
 $ gem install rdiscount
 {% endhighlight %}  
 
-![](http://i.imgur.com/o7ffs.png)
+![](https://ws3.sinaimg.cn/large/006tKfTcly1fitl1vbdzqj30ex03vglg.jpg)
 
 # Step5  
 

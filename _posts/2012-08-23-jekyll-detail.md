@@ -76,7 +76,7 @@ Hi XXX!You've successfully authenticated, but GitHub does not provide shell acce
 
 > 比如我的用户名是iyouhao，那么我创建的资源库的名字必须是iyouhao.github.com，这样就保证这个资源库能够直接在master分支直接帮你生成页面，如果iyouhao.github.com里面有一个index.html页面的话。如下图:  
 
-![create repo](http://i.imgur.com/z2D5I.png)  
+![create repo](https://ws3.sinaimg.cn/large/006tKfTcly1fitl52bdiij30gk0cxaae.jpg)  
 
 创建好以后，把该仓库clone到本地：  
 

@@ -87,5 +87,5 @@ eg\. 一个本地web留言板:
 
 预览图：   
 
-![html5](http://i.imgur.com/dY7ka.png)  
+![html5](https://ws4.sinaimg.cn/large/006tKfTcly1fitk7i4uulj30e40b0t8m.jpg)  
 
