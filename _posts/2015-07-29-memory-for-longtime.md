@@ -17,5 +17,5 @@ tags:
 > 你应该不在家  
 
 
-![远处的风景](http://y.photo.qq.com/img?s=QpbWOsjan&l=y.jpg)
+![远处的风景](https://ws3.sinaimg.cn/large/006tKfTcgy1fizsl02bxnj30dw09hdh4.jpg)
 p.s. 图片来源：<http://www.douban.com/group/topic/51702786/>

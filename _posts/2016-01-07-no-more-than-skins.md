@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 『皮囊』
-logo: http://y.photo.qq.com/img?s=ueGRNL3yZ&l=y.jpg
+logo: https://ws3.sinaimg.cn/large/006tKfTcgy1fizt06u4uij30b40f5aab.jpg
 categories:
 - Life
 - Book

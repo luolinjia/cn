@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 『岛上书店』
-logo: http://y.photo.qq.com/img?s=kg4npvGpZ&l=y.jpg
+logo: https://ws4.sinaimg.cn/large/006tKfTcgy1fizt07tdkzj30go0m8411.jpg
 categories:
 - Life
 - Book

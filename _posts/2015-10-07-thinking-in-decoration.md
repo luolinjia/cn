@@ -21,9 +21,9 @@ tags:
 
 最后自己还是深陷简约风，不能自拔，类似于这种：  
 
-![](http://y.photo.qq.com/img?s=u6nOS31ZR&l=y.jpg)
+![](https://ws3.sinaimg.cn/large/006tKfTcgy1fizsleye06j30go0b4wf9.jpg)
 
-![](http://y.photo.qq.com/img?s=PDBVqabMd&l=y.jpg)
+![](https://ws2.sinaimg.cn/large/006tKfTcgy1fizsli6qsmj30ld0g9wfy.jpg)
 p.s.图片均来源于网上，如有侵权，立即删除  
 
 当然，网上的设计只能是作为一种参考，不一样的地方还需要稍微灵活处理。  

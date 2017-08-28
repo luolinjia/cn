@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 『富兰克林传』
-logo: http://y.photo.qq.com/img?s=hAWXCdTSC&l=y.jpg
+logo: https://ws4.sinaimg.cn/large/006tKfTcgy1fizt09wrgfj30go0m8mzn.jpg
 categories:
 - Book
 tags:
