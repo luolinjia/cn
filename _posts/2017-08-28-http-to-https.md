@@ -13,7 +13,7 @@ tags:
 
 流程:
 
-- 注册 Cloudflare 账号 <www.cloudflare.com>
+- 注册 [Cloudflare](https://www.cloudflare.com) 账号
 - 注册成功后,点击右上角的『+Add Site』,输入自己的网址,并点击『Begin Scan』,然后就会出现自己域名的 DNS 记录,不过这里奇怪的是,我是用的 oray.com 域名服务商,但是却解析不出来,所以,只有等会进去后再进行解析的配置
 - 点击『Continue』后选择『Free Website』,再点击『Continue』,现在就会出现如下图的配置:
 
