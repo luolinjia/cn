@@ -11,7 +11,7 @@ comments:
         format: "timestamp-seconds"
   moderation: false
   name: "luolinjia.com"
-  path: "_data/comments/{option.slug}"
+  path: "_data/comments/{options.slug}"
   requiredFields: ["name", "message"]
   transforms:
     email: md5
