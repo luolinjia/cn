@@ -1,0 +1,10 @@
+<!-- Add the comment form -->
+<form method="POST" action="{{ site.staticmanUrl }}" autocomplete="off">
+    <input name="options[redirect]" type="hidden" value="{{ site.url }}">
+    <input name="options[slug]" type="hidden" value="{{ page.slug }}">
+    <label><input name="fields[name]" type="text">大名</label>
+    <label><input name="fields[email]" type="email">邮件</label>
+    <label><textarea name="fields[message]"></textarea>说点啥</label>
+
+    <button type="submit">提交</button>
+</form>

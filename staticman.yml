@@ -1,0 +1,17 @@
+comments:
+  allowedFields: ["name", "email", "url", "message"]
+  branch: "gh-pages"
+  commitMessage: "New comment on luolinjia.com"
+  filename: "{@date:YYYY-MM-DD}-{fields.name}-{@timestamp}"
+  format: "yaml"
+  generatedFields:
+    date:
+      type: date
+      options:
+        format: "timestamp-seconds"
+  moderation: false
+  name: "luolinjia.com"
+  path: "_data/comments/{option.slug}"
+  requiredFields: ["name", "message"]
+  transforms:
+    email: md5

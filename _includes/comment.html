@@ -1,0 +1,11 @@
+<section class="comment">
+    {% assign comments = site.data.comments[page.slug] %}
+    {% for comment in comments reversed %}
+        {% assign item = comment[1] %}
+        <div class="comment-item">
+            <span>{{ item.name }}</span>
+            <span>{{ item.email }}</span>
+            <p>{{ item.comment }}</p>
+        </div>
+    {% endfor %}
+</section>

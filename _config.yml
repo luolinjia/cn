@@ -1,7 +1,16 @@
-﻿markdown: kramdown
-permalink: /:year/:month/:title/
+﻿permalink: /:year/:month/:title/
 url: http://luolinjia.com/cn
+# basic information
 author: 骆林佳
+author_e_name: Karl Luo
+github_username: luolinjia
+email: 360512239@qq.com
+
+# settings
+markdown: kramdown
 lsi: false
 pygments: true
 highlighter: rouge
+
+# Staticman comments
+staticmanUrl: https://api.staticman.net/v2/entry/luolinjia/cn/gh-pages/comments
