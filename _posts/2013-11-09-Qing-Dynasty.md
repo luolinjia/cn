@@ -6,7 +6,8 @@ categories:
 - Emotion
 - History
 tags:
-- 鸦片战争
+- 鸦片
+- 战争
 - 历史
 ---
 
