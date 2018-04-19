@@ -1,3 +1,5 @@
 _site
 media/
+.idea/*
+.DS_Store
 
