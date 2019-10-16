@@ -221,9 +221,9 @@ p {
 
 .center-content .pad .post-logo img{
     max-width: 360px;
-    -webkit-box-shadow: -1px -1px 40px #127F78;
-    -moz-box-shadow: -1px -1px 40px #127F78;
-    box-shadow: -1px -1px 40px #127F78;
+    1-webkit-box-shadow: -1px -1px 40px #127F78;
+    1-moz-box-shadow: -1px -1px 40px #127F78;
+    1box-shadow: -1px -1px 40px #127F78;
 }
 
 .center-content .post-title {
@@ -262,9 +262,9 @@ p {
 .center-content .pad img {
     max-width: 600px;
     margin: 4px auto;
-    -webkit-box-shadow: -1px -1px 40px #127F78;
-    -moz-box-shadow: -1px -1px 40px #127F78;
-    box-shadow: -1px -1px 40px #127F78;
+    1-webkit-box-shadow: -1px -1px 40px #127F78;
+    1-moz-box-shadow: -1px -1px 40px #127F78;
+    1box-shadow: -1px -1px 40px #127F78;
 }
 
 .center-content .content_post li {
